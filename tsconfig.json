@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    /* Language & Module Support */
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+
+    /* Type Checking & Linting */
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+
+    /* Output (not needed with Vite) */
+    "noEmit": true,
+
+    /* Path Aliases (optional) */
+    // "baseUrl": "./src",
+    // "paths": {
+    //   "@components/*": ["components/*"],
+    //   "@pages/*": ["pages/*"]
+    // }
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
