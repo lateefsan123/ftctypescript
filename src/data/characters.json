@@ -332,7 +332,268 @@
         { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1Dxd-4dZSgBJBET7Zmwkoj1kD4YxneM1aw-1xDpnx38g/edit?pli=1&gid=1180599693#gid=1180599693" },
         { "title": "music", "url": "Street Fighter 6 - Rashid Theme Extended - The Turbulent Wind.mp3" }
       ]
-    }, 
+    }, "aki": {
+  "name": "A.K.I.",
+  "image": "/images/aki/profilepic.png",
+  "background": "/images/aki/background2.png",
+  "carousel": [
+    {
+      "type": "text",
+      "title": "A.K.I. <span class='hub'>Center</span>",
+      "description": "Welcome to the ultimate A.K.I. hub in Street Fighter 6! Whether you're a newcomer or a seasoned pro, explore tips, combos, and strategies to master her poison mechanics, sneaky setups, and relentless pressure. Get ready to level up your game and strike fear into your opponents!",
+      "className": "firstone"
+    },
+    {
+      "type": "achievement",
+      "title": "Broski Super UK Win",
+      "image": "/images/aki/akii.webp",
+      "link": "https://youtu.be/C5RyNYt0Kkw?si=HaOAptKmS9Y1CW29",
+      "className": "achievement"
+    },
+    {
+      "type": "replaysmaller",
+      "title": "Watch High Level A.K.I. Replays",
+      "buttonLabel": "WATCH NOW",
+      "buttonIcon": "fa-solid fa-play",
+      "buttonLink": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9Ly7fIlPDOobExANmvKjr4c",
+      "image": "/images/aki/replay.png",
+      "className": "replay"
+    },
+    {
+      "type": "text",
+      "title": "Coming Soon <span class='hub'>...</span>",
+      "description": "More A.K.I. tech and tournament breakdowns are on the way. Stay tuned!",
+      "className": "firstone"
+    }
+  ],
+  "section": [
+    { "title": "Discord", "url": "https://discord.gg/a-k-i-1135649494462124065" },
+    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/A.K.I." },
+    { "title": "Document", "url": "https://docs.google.com/document/d/1tLwAu_oK-oWEMCNh4IdRLNDiwPPwXPrkXSf-quPUwAI/edit?tab=t.0" },
+    { "title": "music", "url": "Street Fighter 6 - A.K.I. Theme Extended - Poisonous Passion 4.mp3" }
+  ],
+  "tech": [
+    {
+      "title": "Aki season 3 changes",
+      "description": "Aki's patch notes for the recent season 3 changes",
+      "skill": "beginner",
+      "link": "https://www.youtube.com/embed/qSB7qtK_6rs?si=o-Y9-QmuhA0wCuCl&start=6120",
+      "image": "/images/aki/season3_stacked_cool_full.png",
+      "--base-color": "#3d5579",
+      "--dark-color": "#2b4257",
+      "--light-color": "#5a729b"
+    },
+    {
+      "title": "Intro",
+      "description": "This video is a basic introduction to A.K.I.",
+      "skill": "beginner",
+      "link": "https://www.youtube.com/embed/Pv0Dq9jS_r0?si=Yo3jlxyz6pXOUIn",
+      "image": "/images/aki/intro.png",
+      "--base-color": "#5c3d79",
+      "--dark-color": "#412b57",
+      "--light-color": "#7a5aa3"
+    },
+    {
+      "title": "Full Guide",
+      "description": "Complete breakdown of A.K.I.’s tools and strategy.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9",
+      "image": "/images/aki/fullaki.png",
+      "--base-color": "#243b40",
+      "--dark-color": "#162629",
+      "--light-color": "#3c5860"
+    },
+    {
+      "title": "Poison",
+      "description": "How to maximize A.K.I.’s poison pressure and effects.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=495",
+      "image": "/images/aki/poison.png",
+      "--base-color": "#762da3",
+      "--dark-color": "#531f75",
+      "--light-color": "#9b45e0"
+    },
+    {
+      "title": "Neutral",
+      "description": "Tips for playing a strong neutral game with A.K.I.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=670",
+      "image": "/images/aki/neutral.png",
+      "--base-color": "#3a6d5d",
+      "--dark-color": "#2a4f45",
+      "--light-color": "#539e86"
+    },
+    {
+      "title": "Specials",
+      "description": "Overview and usage of A.K.I.’s special moves.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=2133",
+      "image": "/images/aki/specials.png",
+      "--base-color": "#8b3048",
+      "--dark-color": "#641f32",
+      "--light-color": "#c74b6c"
+    },
+    {
+      "title": "Anti-Air Combos",
+      "description": "Combos to use when catching opponents in the air.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=5098",
+      "image": "/images/aki/antiair.png",
+      "--base-color": "#926d21",
+      "--dark-color": "#6a5017",
+      "--light-color": "#b88f2b"
+    },
+    {
+      "title": "Stun Combos",
+      "description": "High-damage combos for stunning your opponent.",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=5250",
+      "image": "/images/aki/stun.png",
+      "--base-color": "#4a78a3",
+      "--dark-color": "#35587a",
+      "--light-color": "#6899c6"
+    },
+    {
+      "title": "Burnout",
+      "description": "How to utilise your opponents burnout state with Aki.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=6496",
+      "image": "/images/aki/burnout.png",
+      "--base-color": "#5f6d73",
+      "--dark-color": "#45525d",
+      "--light-color": "#89969f"
+    },
+    {
+      "title": "Command Grab Setups",
+      "description": "Ways to sneak in her deadly command grabs.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J&start=112",
+      "image": "/images/aki/commandgrab.png",
+      "--base-color": "#7c4e91",
+      "--dark-color": "#5a3a6c",
+      "--light-color": "#9f6bbd"
+    },
+    {
+      "title": "Resets",
+      "description": "Resets to surprise and trap opponents mid-combo.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J&start=185",
+      "image": "/images/aki/reset.png",
+      "--base-color": "#45525d",
+      "--dark-color": "#303b45",
+      "--light-color": "#6c7a88"
+    },
+    {
+      "title": "Oki",
+      "description": "Optimize your offense after knockdowns.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=5598",
+      "image": "/images/aki/oki.png",
+      "--base-color": "#5f42ab",
+      "--dark-color": "#462f7d",
+      "--light-color": "#7d63d2"
+    },
+    {
+      "title": "Mixups",
+      "description": "Deadly mixup options to keep your opponent guessing.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/mqlY63Qq4lI?si=6__VrUc9YIDfDd-M",
+      "image": "/images/aki/mixup.png",
+      "--base-color": "#af5e2d",
+      "--dark-color": "#834622",
+      "--light-color": "#d48453"
+    },
+    {
+      "title": "Safejumps",
+      "description": "How to apply safejump pressure with A.K.I.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J",
+      "image": "/images/aki/safejump.png",
+      "--base-color": "#5f6d73",
+      "--dark-color": "#445055",
+      "--light-color": "#859299"
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Broski",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/broskifgc", "streamer": "broskifgc" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@BroskiFGC" },
+        { "platform": "twitter", "url": "https://x.com/broskiFGC" }
+      ],
+      "image": "/images/aki/broski.png"
+    },
+    {
+      "name": "Nyanpi",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/nyanpi55", "streamer": "nyanpi55" },
+        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCoUOrKELcUjTlICTKbtth7Q" },
+        { "platform": "twitter", "url": "https://x.com/nyanpi55" }
+      ],
+      "image": "/images/aki/nyanpi.png"
+    },
+    {
+      "name": "Kharsonist",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/kharsonist", "streamer": "kharsonist" },
+        { "platform": "twitter", "url": "https://x.com/Kharsonist" }
+      ],
+      "image": "/images/aki/kharsonist.png"
+    },
+    {
+      "name": "Hikaru",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/hikaru_shiftne", "streamer": "hikaru_shiftne" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@hikaru_shiftne" },
+        { "platform": "twitter", "url": "https://x.com/hikaru_shiftne" }
+      ],
+      "image": "/images/aki/hikaru.png"
+    },
+    {
+      "name": "Sako",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/sakonoko_game", "streamer": "sakonoko_game" },
+        { "platform": "youtube", "url": "https://www.youtube.com/c/sakonoko_game" },
+        { "platform": "twitter", "url": "https://x.com/sakonoko" }
+      ],
+      "image": "/images/aki/sako.png"
+    }
+  ],
+  "labbers": [],
+  "tournaments": [
+    {
+      "name": "Super UK",
+      "image": "/images/aki/superuk.png",
+      "link": "https://www.youtube.com/embed/C5RyNYt0Kkw?si=ZZc3V2U1mmXvYmkI"
+    },
+    {
+      "name": "Super Oceania",
+      "image": "/images/aki/superoce.png",
+      "link": "https://www.youtube.com/embed/ZaBOL-4hviM?si=Ivwx-bGt0fq9xo3L"
+    }
+  ], "navStyle": {
+  "base": {
+    "backgroundColor": "transparent",
+    "color": "black",
+    "firstColor": "black",
+    "centerColor": "#9b59b6",
+    "buttonBorder": "3px solid black",
+    "buttonColor": "black"
+  },
+  "scrolled": {
+    "backgroundColor": "rgba(20, 10, 30, 0.7)",
+    "color": "white",
+    "firstColor": "#9b59b6",
+    "centerColor": "white",
+    "buttonBorder": "3px solid white",
+    "buttonColor": "white"
+  }
+}
+
+
+},
+
   "juri": {
     "name": "Juri",
     "image": "/images/juri/profilepic.png",
@@ -919,23 +1180,263 @@
       { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Akuma" },
       { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/placeholder/edit" },
       { "title": "music", "url": "Street Fighter 6 - Akuma Theme Extended.mp3" }
-    ], "navStyle": {
-  "base": {
-    "backgroundColor": "transparent",
-    "color": "black",
-    "firstColor": "black",
-    "centerColor": "rgb(255, 149, 0)",
-    "buttonBorder": "3px solid black",
-    "buttonColor": "black"
-  },
-  "scrolled": {
-    "backgroundColor": "rgba(0, 0, 0, 0.7)",
-    "color": "white",
-    "firstColor": "rgb(255, 149, 0)",
-    "centerColor": "white",
-    "buttonBorder": "3px solid white",
-    "buttonColor": "white"
+    ], "aki": {
+  "name": "Aki",
+  "image": "/images/aki/profilepic.png",
+  "background": "/images/aki/background.jpg",
+  "carousel": [
+    {
+      "type": "text",
+      "title": "Aki <span class='hub' style='color: {color};'>Center</span>",
+      "description": "Welcome to the ultimate A.K.I. hub in Street Fighter 6! Whether you're a newcomer or a seasoned pro, explore tips, combos, and strategies to master her poison mechanics, sneaky setups, and relentless pressure. Get ready to level up your game and strike fear into your opponents!",
+      "className": "firstone"
+    },
+    {
+      "type": "achievement",
+      "title": "Broski Qualifies For Capcom Cup",
+      "image": "/images/aki/akii.webp",
+      "link": "https://youtu.be/5I3DKGG0xjU?si=XsIqh6uj6ybnQeRr",
+      "className": "achievement"
+    },
+    {
+      "type": "replaysmaller",
+      "title": "Watch High Level Aki Replays",
+      "buttonLabel": "WATCH NOW",
+      "buttonIcon": "fa-solid fa-play",
+      "buttonLink": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9Ly7fIlPDOobExANmvKjr4c",
+      "image": "/images/aki/replays.png",
+      "className": "replay"
+    },
+    {
+      "type": "text",
+      "title": "Coming Soon <span style='color: {color};'>...</span>",
+      "description": "More A.K.I. tech and tournament breakdowns are on the way. Stay tuned!",
+      "className": "firstone"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Aki season 3 changes",
+      "description": "Aki's patch notes for the recent season 3 changes",
+      "skill": "beginner",
+      "link": "https://www.youtube.com/embed/qSB7qtK_6rs?si=o-Y9-QmuhA0wCuCl&start=6120",
+      "image": "/images/aki/season3_stacked_cool_full.png",
+      "--base-color": "#3d5579",
+      "--dark-color": "#2b4257",
+      "--light-color": "#6b8db3"
+    },
+    {
+      "title": "Intro",
+      "description": "This video is a basic introduction to A.K.I.",
+      "skill": "beginner",
+      "link": "https://www.youtube.com/embed/Pv0Dq9jS_r0?si=Yo3jlxyz6pXOUIn",
+      "image": "/images/aki/intro.png",
+      "--base-color": "#5c3d79",
+      "--dark-color": "#412b57",
+      "--light-color": "#8866a3"
+    },
+    {
+      "title": "Full Guide",
+      "description": "Complete breakdown of A.K.I.'s tools and strategy",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9",
+      "image": "/images/aki/fullaki.png",
+      "--base-color": "#243b40",
+      "--dark-color": "#162629",
+      "--light-color": "#5a7a82"
+    },
+    {
+      "title": "Poison",
+      "description": "Understanding A.K.I.'s poison mechanics",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=495",
+      "image": "/images/aki/poison.png",
+      "--base-color": "#762da3",
+      "--dark-color": "#531f75",
+      "--light-color": "#a866cc"
+    },
+    {
+      "title": "Combos",
+      "description": "Comprehensive combo guide for A.K.I.",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=2398",
+      "image": "/images/aki/combo.png",
+      "--base-color": "#4a5c96",
+      "--dark-color": "#3d4a7a",
+      "--light-color": "#7a8fcc"
+    },
+    {
+      "title": "Mixups",
+      "description": "Deadly mixup options to keep your opponent guessing",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J",
+      "image": "/images/aki/mixup.png",
+      "--base-color": "#af5e2d",
+      "--dark-color": "#823f1e",
+      "--light-color": "#d49766"
+    },
+    {
+      "title": "Safejumps",
+      "description": "How to apply safejump pressure with A.K.I.",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J",
+      "image": "/images/aki/safejump.png",
+      "--base-color": "#5f6d73",
+      "--dark-color": "#424c50",
+      "--light-color": "#8fa3ab"
+    },
+    {
+      "title": "Burnout",
+      "description": "How to utilise your opponents burnout state with Aki",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=VWPoYU7r0rdRQTUL&start=6496",
+      "image": "/images/aki/burnout.png",
+      "--base-color": "#36bfaf",
+      "--dark-color": "#28968a",
+      "--light-color": "#66e6d1"
+    },
+    {
+      "title": "Command Grab Setups",
+      "description": "Ways to sneak in her deadly command grabs",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J&start=112",
+      "image": "/images/aki/commandgrab.png",
+      "--base-color": "#7c4e91",
+      "--dark-color": "#593669",
+      "--light-color": "#b877cc"
+    },
+    {
+      "title": "Resets",
+      "description": "Resets to surprise and trap opponents mid-combo",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/1TjpUNM4vGM?si=L9v4ib_HL18as_2J&start=185",
+      "image": "/images/aki/reset.png",
+      "--base-color": "#45525d",
+      "--dark-color": "#313a42",
+      "--light-color": "#708291"
+    },
+    {
+      "title": "Oki",
+      "description": "Optimize your offense after knockdowns",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=5598",
+      "image": "/images/aki/oki.png",
+      "--base-color": "#5f42ab",
+      "--dark-color": "#442f7c",
+      "--light-color": "#8a70cc"
+    },
+    {
+      "title": "Matchups",
+      "description": "How A.K.I. fares against the cast and key tactics",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2kBkizvG7eM?si=v3BDOe60xZRkueR9&start=6820",
+      "image": "/images/aki/gimicks.png",
+      "--base-color": "#bfa236",
+      "--dark-color": "#8c7827",
+      "--light-color": "#e6cc66"
+    },
+    {
+      "title": "Anti-A.K.I.",
+      "description": "How to counter A.K.I. and shut down her tricks",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/b4E_dxKg5lI?si=d65cjCJF0BY9-lt1",
+      "image": "/images/aki/antiaki.png",
+      "--base-color": "#94333c",
+      "--dark-color": "#6b262c",
+      "--light-color": "#cc6670"
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Broski",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/broskifgc", "streamer": "broskifgc" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@BroskiFGC" },
+        { "platform": "twitter", "url": "https://x.com/broskiFGC" }
+      ],
+      "image": "/images/aki/broski.png"
+    },
+    {
+      "name": "Nyanpi",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/nyanpi55", "streamer": "nyanpi55" },
+        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCoUOrKELcUjTlICTKbtth7Q" },
+        { "platform": "twitter", "url": "https://x.com/nyanpi55" }
+      ],
+      "image": "/images/aki/nyanpi.png"
+    },
+    {
+      "name": "Kharsonist",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/kharsonist", "streamer": "kharsonist" },
+        { "platform": "twitter", "url": "https://x.com/Kharsonist" }
+      ],
+      "image": "/images/aki/kharsonist.png"
+    },
+    {
+      "name": "Hikaru",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/hikaru_shiftne", "streamer": "hikaru_shiftne" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@hikaru_shiftne" },
+        { "platform": "twitter", "url": "https://x.com/hikaru_shiftne" }
+      ],
+      "image": "/images/aki/hikaru.png"
+    },
+    {
+      "name": "Sako",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/sakonoko_game", "streamer": "sakonoko_game" },
+        { "platform": "youtube", "url": "https://www.youtube.com/c/sakonoko_game" },
+        { "platform": "twitter", "url": "https://x.com/sakonoko" }
+      ],
+      "image": "/images/aki/sako.png"
+    }
+  ],
+  "labbers": [],
+  "tournaments": [
+    {
+      "name": "Super Oceania",
+      "image": "/images/aki/superoce.png",
+      "link": "https://www.youtube.com/embed/ZaBOL-4hviM?si=neuLb9antJ7dn2GN"
+    },
+    {
+      "name": "Super UK",
+      "image": "/images/aki/superuk.png",
+      "link": "https://www.youtube.com/embed/C5RyNYt0Kkw?si=IJkECBzMfGlXcpt3"
+    }
+  ],
+  "sidebar": [
+    { "title": "Discord", "url": "https://discord.gg/a-k-i-1135649494462124065" },
+    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/A.K.I." },
+    { "title": "Document", "url": "https://docs.google.com/document/d/1tLwAu_oK-oWEMCNh4IdRLNDiwPPwXPrkXSf-quPUwAI/edit?tab=t.0" },
+    { "title": "Replays", "url": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9Ly7fIlPDOobExANmvKjr4c" },
+    { "title": "Achievement", "url": "https://youtu.be/5I3DKGG0xjU?si=XsIqh6uj6ybnQeRr" }
+  ],
+  "section": [
+    { "title": "Discord", "url": "https://discord.gg/a-k-i-1135649494462124065" },
+    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/A.K.I." },
+    { "title": "Document", "url": "https://docs.google.com/document/d/1tLwAu_oK-oWEMCNh4IdRLNDiwPPwXPrkXSf-quPUwAI/edit?tab=t.0" },
+    { "title": "music", "url": "Street Fighter 6 - A.K.I. Theme Extended - Poisonous Passion 4.mp3" }
+  ],
+  "navStyle": {
+    "base": {
+      "backgroundColor": "transparent",
+      "color": "black",
+      "firstColor": "black",
+      "centerColor": "#762da3",
+      "buttonBorder": "3px solid black",
+      "buttonColor": "black"
+    },
+    "scrolled": {
+      "backgroundColor": "rgba(30, 10, 40, 0.7)",
+      "color": "white",
+      "firstColor": "#762da3",
+      "centerColor": "white",
+      "buttonBorder": "3px solid white",
+      "buttonColor": "white"
+    }
   }
+
   }}, "bison": {
     "name": "Bison",
     "image": "/images/bison//profilepic.png",
@@ -1822,7 +2323,292 @@
     { "title": "music", "url": "Street Fighter 6 - Cammy Theme Song.mp3" }
   ]
 }
-, "deejay": {
+, "chun-li": {
+  "name": "Chun-Li",
+  "image": "/images/chunli/aaa-removebg-preview.png",
+  "background": "/images/chunli/chunstage.avif",
+  "carousel": [
+    {
+      "type": "text",
+      "title": "Chun-Li <span class='hub' style='color: {color};'>Center</span>",
+      "description": "Welcome to the ultimate Chun-Li hub in Street Fighter 6! Whether you're new or a pro, find tips, combos, and strategies to master her speed and mix-ups. Get ready to level up your game!",
+      "className": "firstone"
+    },
+    {
+      "type": "achievement",
+      "title": "Valmaster France Regional Final",
+      "image": "/images/chunli/achievement.jpg",
+      "link": "https://www.youtube.com/watch?v=Q04vYZd7JTs",
+      "className": "achievement"
+    },
+    {
+      "type": "replaysmaller",
+      "title": "Watch High Level Chun-Li Replays",
+      "buttonLabel": "WATCH NOW",
+      "buttonIcon": "fa-solid fa-play",
+      "buttonLink": "https://youtube.com/playlist?list=PLvZ5t8JLwU9KkaAhDfFZMpdHMbPtQPWcP&si=glciHl3qTshuxQTr",
+      "image": "/images/chunli/replay.png",
+      "className": "replay"
+    },
+    {
+      "type": "text",
+      "title": "Coming Soon <span style='color: {color};'>...</span>",
+      "description": "More Chun-Li tech and tournament breakdowns are on the way. Stay tuned!",
+      "className": "firstone"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Chun-li season 3 changes",
+      "description": "Chun-Li's patch notes for the recent season 3 changes",
+      "skill": "beginner",
+      "link": "https://www.youtube.com/embed/R9up9ZGLPps?si=-iScNoo_dM1ilusg&start=1",
+      "image": "/images/chunli/season3_stacked_cool_full.png",
+      "--base-color": "#1effa1",
+      "--dark-color": "#17cc81",
+      "--light-color": "#66ffcc"
+    },
+    {
+      "title": "Intro to Chun-Li",
+      "description": "This video is an introduction to the character Chun-Li",
+      "skill": "beginner",
+      "link": "https://www.youtube.com/embed/X93g4j_kAL8?si=2FPmQdVU-lC9jMFB",
+      "image": "/images/chunli/intro.png",
+      "--base-color": "#1E90FF",
+      "--dark-color": "#1873cc",
+      "--light-color": "#66b3ff"
+    },
+    {
+      "title": "Combo Guide",
+      "description": "Learn the best combos for Chun-Li to maximize damage and pressure",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/2C_FyIRWv4Y?si=u2s6XepohaCHd61R",
+      "image": "/images/chunli/combo.png",
+      "--base-color": "#FF6347",
+      "--dark-color": "#cc4f39",
+      "--light-color": "#ff9680"
+    },
+    {
+      "title": "Drive Impact Combo",
+      "description": "Master the Drive Impact combo for Chun-Li to take control of the match",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/l9sZvLTF1C4?si=g9H-Nrv5K-7X4IM-&start=2089",
+      "image": "/images/chunli/driveimpact.png",
+      "--base-color": "#FFD700",
+      "--dark-color": "#ccac00",
+      "--light-color": "#ffeb66"
+    },
+    {
+      "title": "OKI Setup",
+      "description": "Learn Chun-Li's best OKI (Offensive Knockdown) setups to keep pressure on your opponent",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/xj6Plxpys7c?si=AmIWC5_zYxhbTpN2&start=359",
+      "image": "/images/chunli/driverush.png",
+      "--base-color": "#DA70D6",
+      "--dark-color": "#ae5aab",
+      "--light-color": "#e6a3e6"
+    },
+    {
+      "title": "Safe Jump",
+      "description": "Learn how to safely jump in on your opponent with Chun-Li to avoid reversals",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/tcA3oKqBCnE?si=K76W68y_pj0fYlhm",
+      "image": "/images/chunli/safejump.png",
+      "--base-color": "#DC143C",
+      "--dark-color": "#b01030",
+      "--light-color": "#e6476b"
+    },
+    {
+      "title": "Burnout",
+      "description": "Learn how to take advantage of the Burnout state to maximize damage in Chun-Li's combos",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/mp3tG_Vdmlg?si=uZY8fYoHZsjEM5T5",
+      "image": "/images/chunli/burnout.png",
+      "--base-color": "#FF4500",
+      "--dark-color": "#cc3700",
+      "--light-color": "#ff7133"
+    },
+    {
+      "title": "Kikoken Strategy",
+      "description": "Master the use of Chun-Li's Kikoken for zoning and controlling space",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/vUgvc63-V0g?si=lvBWECnKQ-ht0IAm&start=359",
+      "image": "/images/chunli/kikoken.png",
+      "--base-color": "#1E90FF",
+      "--dark-color": "#1873cc",
+      "--light-color": "#66b3ff"
+    },
+    {
+      "title": "SA2 Combos",
+      "description": "Explore Chun-Li's Super Art 2 combos for devastating damage in the corner",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/0EZudnRujQ8?si=EAV5GeNHPQPsm-4F&start=2089",
+      "image": "/images/chunli/sa2.png",
+      "--base-color": "#8A2BE2",
+      "--dark-color": "#6e22b5",
+      "--light-color": "#b366e6"
+    },
+    {
+      "title": "Stance Management",
+      "description": "Learn how to manage Chun-Li's stance for better movement and control in battle",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/j7sUWdXQP14?si=5bihDdOCBmY_bzun",
+      "image": "/images/chunli/stance.png",
+      "--base-color": "#FF6347",
+      "--dark-color": "#cc4f39",
+      "--light-color": "#ff9680"
+    },
+    {
+      "title": "Mixups",
+      "description": "Master Chun-Li's mixup game to confuse and overwhelm your opponent",
+      "skill": "intermediate",
+      "link": "https://www.youtube.com/embed/bXCq1Iw2L0Q?si=dvA8KvW7lpjvCb2Q",
+      "image": "/images/chunli/overhead.png",
+      "--base-color": "#FFD700",
+      "--dark-color": "#ccac00",
+      "--light-color": "#ffeb66"
+    },
+    {
+      "title": "Stun Combo",
+      "description": "Learn Chun-Li's most effective stun combos to shut down your opponent quickly",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/2dyemWBc2q8?si=PQ_bC6FRgaNmWZ_K&start=359",
+      "image": "/images/chunli/stun.png",
+      "--base-color": "#32CD32",
+      "--dark-color": "#28a428",
+      "--light-color": "#66e666"
+    },
+    {
+      "title": "Side Switch Combo",
+      "description": "Master Chun-Li's side-switch combos to keep your opponent guessing and off balance",
+      "skill": "advanced",
+      "link": "https://www.youtube.com/embed/cCq9kAIsjYM?si=C_rva20UQhU8K8vk&start=359",
+      "image": "/images/chunli/sideswitch.png",
+      "--base-color": "#DC143C",
+      "--dark-color": "#b01030",
+      "--light-color": "#e6476b"
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Go1",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/cyclops_go1", "streamer": "cyclops_go1" },
+        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCB0jbwRH9R4911lRAU7fVWQ" },
+        { "platform": "twitter", "url": "https://x.com/GO13151" }
+      ],
+      "image": "/images/chunli/go1.png"
+    },
+    {
+      "name": "Moke",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/lllmokelll", "streamer": "lllmokelll" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@mokeasobi" },
+        { "platform": "twitter", "url": "https://x.com/lllmokelll" }
+      ],
+      "image": "/images/chunli/moke.png"
+    },
+    {
+      "name": "Valmaster",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/valmaster", "streamer": "valmaster" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@valmaster" },
+        { "platform": "twitter", "url": "https://x.com/_Valmaster" }
+      ],
+      "image": "/images/chunli/valmaster.png"
+    },
+    {
+      "name": "Leith",
+      "links": [
+        { "platform": "twitter", "url": "https://x.com/leith42" }
+      ],
+      "image": "/images/chunli/leith.png"
+    },
+    {
+      "name": "Filipinoman",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/Filipin0man", "streamer": "Filipin0man" },
+        { "platform": "twitter", "url": "https://x.com/Filipinoman" }
+      ],
+      "image": "/images/chunli/filipinoman.png"
+    },
+    {
+      "name": "Hamood",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/bboy_brothers", "streamer": "bboy_brothers" },
+        { "platform": "twitter", "url": "https://x.com/Hamood_fgc" }
+      ],
+      "image": "/images/chunli/hamood.png"
+    },
+    {
+      "name": "Haitani",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/haitani0904", "streamer": "haitani0904" },
+        { "platform": "youtube", "url": "https://www.youtube.com/@TV-fp4zl" },
+        { "platform": "twitter", "url": "https://x.com/hai090" }
+      ],
+      "image": "/images/chunli/haitani.png"
+    },
+    {
+      "name": "Owaechan",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/owaechan1201", "streamer": "owaechan1201" },
+        { "platform": "twitter", "url": "https://x.com/owaechan" }
+      ],
+      "image": "/images/chunli/owaechan.png"
+    },
+    {
+      "name": "Chris G",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/nychrisg", "streamer": "nychrisg" },
+        { "platform": "twitter", "url": "https://x.com/NYchrisG" }
+      ],
+      "image": "/images/chunli/chrisg.png"
+    },
+    {
+      "name": "UltraSnance",
+      "links": [
+        { "platform": "twitch", "url": "https://www.twitch.tv/ultrasnance", "streamer": "ultrasnance" },
+        { "platform": "youtube", "url": "https://www.youtube.com/results?search_query=ultrasnance+chun+li" },
+        { "platform": "twitter", "url": "https://x.com/UltraSnance" }
+      ],
+      "image": "/images/chunli/ultra.png"
+    }
+  ],
+  "labbers": [],
+  "tournaments": [],
+  "sidebar": [
+    { "title": "Discord", "url": "https://discord.com/invite/nDFhUjM" },
+    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Chun-Li" },
+    { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1NbQIc4s080YhFJDnGDKaUzXpCrVaf42ISviSeJort8w/edit?gid=362140452#gid=362140452" },
+    { "title": "Replays", "url": "https://youtube.com/playlist?list=PLvZ5t8JLwU9KkaAhDfFZMpdHMbPtQPWcP&si=glciHl3qTshuxQTr" },
+    { "title": "Achievement", "url": "https://www.youtube.com/watch?v=Q04vYZd7JTs" }
+  ],
+  "section": [
+    { "title": "Discord", "url": "https://discord.com/invite/nDFhUjM" },
+    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Chun-Li" },
+    { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1NbQIc4s080YhFJDnGDKaUzXpCrVaf42ISviSeJort8w/edit?gid=362140452#gid=362140452" },
+    { "title": "music", "url": "Street Fighter 6 - Chun-Li's Theme (SF6 OST).mp3" }
+  ],
+  "navStyle": {
+    "base": {
+      "backgroundColor": "transparent",
+      "color": "black",
+      "firstColor": "black",
+      "centerColor": "#0D47A1",
+      "buttonBorder": "3px solid black",
+      "buttonColor": "black"
+    },
+    "scrolled": {
+      "backgroundColor": "rgba(13, 71, 161, 0.7)",
+      "color": "white",
+      "firstColor": "#0D47A1",
+      "centerColor": "white",
+      "buttonBorder": "3px solid white",
+      "buttonColor": "white"
+    }
+  }
+}, "deejay": {
     "name": "Dee Jay",
     "image": "/images/deejay//profilepic.png",
     "background": "/images/deejay/SF6_3F3F3F.webp",
