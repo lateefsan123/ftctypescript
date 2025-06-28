@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { init } from '../utils/twitch'; // your Twitch live check logic
+import { init } from '../utils/twitch';
 
 const Streamers = ({ data }) => {
   useEffect(() => {

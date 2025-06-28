@@ -1,4 +1,3 @@
-// src/components/VideoPlayer.tsx
 
 import React, { useEffect } from 'react';
 

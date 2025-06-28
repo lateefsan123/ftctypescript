@@ -1,5 +1,3 @@
-// src/components/Carousel.tsx
-
 import React, { useEffect, useState, useRef } from 'react';
 import Slide from './Slide';
 import Dots from './Dots';

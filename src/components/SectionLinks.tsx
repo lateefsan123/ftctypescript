@@ -35,7 +35,7 @@ const SectionLinks: React.FC<SectionLinksProps> = ({ data, navStyle = {} }) => {
     document: ['fas', 'file-lines'],
   };
 
-  // Convert "rgb(r,g,b)" to "rgba(r,g,b,0.35)"
+  // Converts "rgb(r,g,b)" to "rgba(r,g,b,0.35)"
   const backgroundColor =
     centerColor.includes('rgb') && centerColor.includes(',')
       ? centerColor.replace('rgb', 'rgba').replace(')', ', 0.35)')

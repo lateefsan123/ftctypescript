@@ -1,4 +1,3 @@
-// src/components/Labbers.tsx
 
 import React, { useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -11,7 +10,7 @@ type LabbersProps = {
 
 const Labbers: React.FC<LabbersProps> = ({ data }) => {
   useEffect(() => {
-    init(); // Check Twitch live status on mount
+    init();
   }, []);
 
   return (

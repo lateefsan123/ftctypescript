@@ -1,5 +1,4 @@
 
-// src/components/Navbar.tsx
 
 import React, { useEffect, useState } from 'react';
 import type { NavStyle } from '../types';

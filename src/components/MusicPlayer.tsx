@@ -1,4 +1,3 @@
-// src/components/MusicPlayer.tsx
 
 import React from 'react';
 

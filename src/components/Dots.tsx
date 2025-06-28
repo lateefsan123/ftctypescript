@@ -1,4 +1,3 @@
-// src/components/Dots.tsx
 
 import React from 'react';
 
