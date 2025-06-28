@@ -1392,6 +1392,10 @@ nav.scrolled a {
     .navspace {
       display: flex;
     }
+
+    .scroll-to-top {
+      display: none;
+    }
     
   }
 
