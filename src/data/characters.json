@@ -2142,7 +2142,7 @@
     "type": "achievement",
     "title": "YHC-Mochi SFL Win",
     "image": "/images/dhalsim/achievement.webp",
-    "link": "https://www.youtube.com/live/YeOVD-X-v-o?si=XLTrVKI75RaEammB",
+    "link": "https://www.youtube.com/embed/YeOVD-X-v-o?si=4klVEy5KX-oK0cQr",
     "className": "achievement"
   },
   {
@@ -2339,68 +2339,63 @@
   {
     "name": "Mr Crimson",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@MrCrimson" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/MrCrimson", "streamer": "MrCrimson" },
-      { "platform": "twitter", "url": "https://x.com/MrCrimson" }
+      { "platform": "twitch", "url": "https://www.twitch.tv/mistahcrimson", "streamer": "mistahcrimson" },
+      { "platform": "youtube", "url": "https://www.youtube.com/@MisterCrimson" },
+      { "platform": "twitter", "url": "https://x.com/MistahCrimson" }
     ],
     "image": "/images/dhalsim//crimson.png"
   },
   {
     "name": "YHC Mochi",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@YHCMochi" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/YHCMochi", "streamer": "YHCMochi" },
-      { "platform": "twitter", "url": "https://x.com/YHCMochi" }
+      { "platform": "youtube", "url": "https://www.youtube.com/@yhcmochi2493" },
+      { "platform": "twitter", "url": "https://x.com/yhcmochi82" }
     ],
     "image": "/images/dhalsim//mochi.png"
   },
   {
     "name": "Torimeshi",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@Torimeshi" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/Torimeshi", "streamer": "Torimeshi" },
-      { "platform": "twitter", "url": "https://x.com/Torimeshi" }
+      { "platform": "twitch", "url": "https://www.twitch.tv/cg_torimeshi", "streamer": "cg_torimeshi" },
+      { "platform": "youtube", "url": "https://www.youtube.com/@torimeshi88" },
+      { "platform": "twitter", "url": "https://x.com/torimesi911" }
     ],
     "image": "/images/dhalsim//torimeshi.png"
   },
   {
     "name": "Luiman",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@Luiman" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/Luiman", "streamer": "Luiman" },
-      { "platform": "twitter", "url": "https://x.com/Luiman" }
+      { "platform": "twitter", "url": "https://x.com/LuiManDR" }
     ],
     "image": "/images/dhalsim//luiman.png"
   },
   {
     "name": "Garnet",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@Garnet" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/Garnet", "streamer": "Garnet" },
-      { "platform": "twitter", "url": "https://x.com/Garnet" }
+      { "platform": "twitter", "url": "https://x.com/FgcGarnet" }
     ],
     "image": "/images/dhalsim//garnet.png"
   },
   {
     "name": "Eli",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@Eli" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/Eli", "streamer": "Eli" },
-      { "platform": "twitter", "url": "https://x.com/Eli" }
+      { "platform": "twitch", "url": "https://www.twitch.tv/elieatscrayons", "streamer": "elieatscrayons" },
+      { "platform": "youtube", "url": "https://www.youtube.com/@elieatscrayons" },
+      { "platform": "twitter", "url": "https://x.com/elieatscrayons" }
     ],
     "image": "/images/dhalsim//eli.png"
   },
   {
     "name": "Breezy",
     "links": [
-      { "platform": "youtube", "url": "https://www.youtube.com/@Breezy" },
-      { "platform": "twitch", "url": "https://www.twitch.tv/Breezy", "streamer": "Breezy" },
-      { "platform": "twitter", "url": "https://x.com/Breezy" }
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UCrxJQMp1aoF_SraeoM6wIWA" },
+      { "platform": "twitter", "url": "https://x.com/BreezyManX" }
     ],
     "image": "/images/dhalsim//breezy.png"
   }
 ],
 "labbers": []
+
 ,
     "tournaments": [
       {
@@ -2907,7 +2902,7 @@
 ,
   "tournaments": [
     {
-      "name": "Super throwback",
+      "name": "Evo throwback",
       "image": "/images/elena//super.png",
       "link": "https://www.youtube.com/playlist?list=PLnJYUs2wpsOLvQ6JD9SmoiCRh1B3I_Fx0"
     }
@@ -2958,7 +2953,7 @@
     "type": "achievement",
     "title": "Higuchi Asian Champions League",
     "image": "/images/guile/achievement.jpg",
-    "link": "https://www.youtube.com/live/2h701TmYy80?si=XXXFr7-UpzuH6d5I&t=6227",
+    "link": "https://www.youtube.com/embed/cSmsMU1DA5M?si=PoR9kWH7PAupE-T4",
     "className": "achievement"
   },
   {
@@ -4181,9 +4176,9 @@
       "link": "https://www.youtube.com/playlist?list=PLnJYUs2wpsOItO5wmmfFby7HExOof7821"
     },
     {
-      "name": "Super Major",
+      "name": "CPT Japan",
       "image": "/images/jp//super.png",
-      "link": "https://youtu.be/5VBqXo5vsLA?si=xJyvECvtVrm_a9Ox"
+      "link": "https://www.youtube.com/embed/5VBqXo5vsLA?si=J6YK3_CA5aJb-zbf"
     }
   ],
   "sidebar": [
@@ -4335,86 +4330,96 @@
     }
   ],
   "streamers": [
-    {
-      "name": "Chris T",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@christatarian1" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/chris_tatarian" },
-        { "platform": "twitter", "url": "https://x.com/Chris_Tatarian" }
-      ],
-      "image": "/images/ken//christ.png"
-    },
-    {
-      "name": "Booce",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@booce6969" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/BooceFGC" },
-        { "platform": "twitter", "url": "https://x.com/BooceFGC" }
-      ],
-      "image": "/images/ken//booce.png"
-    },
-    {
-      "name": "Ryukichi",
-      "links": [
-        { "platform": "youtube", "url": "www.youtube.com/@ryukichi1214?si=UlqAfZ3n7k6Qaeuf" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/ryukichi_" },
-        { "platform": "twitter", "url": "https://x.com/ryukichi1214" }
-      ],
-      "image": "/images/ken//ryukichi.png"
-    },
-    {
-      "name": "Halibel",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@GGHalibel" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/gghalibel" },
-        { "platform": "twitter", "url": "https://x.com/GGHalibel" }
-      ],
-      "image": "/images/ken//halibel.png"
-    },
-    {
-      "name": "Angrybird",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@Fgc_birds" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/fgc_birds" },
-        { "platform": "twitter", "url": "https://x.com/FGC_Angrybird" }
-      ],
-      "image": "/images/ken//angrybird.png"
-    },
-    {
-      "name": "Tokido",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@Tokido" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/tokidoki77" },
-        { "platform": "twitter", "url": "https://x.com/tokidoki77" }
-      ],
-      "image": "/images/ken//tokido.png"
-    },
-    {
-      "name": "Nauman",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@naumanzoh" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/naumanzoh" },
-        { "platform": "twitter", "url": "https://x.com/naumanzoh" }
-      ],
-      "image": "/images/ken//nuaman.png"
-    },
-    {
-      "name": "Takamura",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/takamura2707" },
-        { "platform": "twitter", "url": "https://x.com/Takamura_Be" }
-      ],
-      "image": "/images/ken//takamura.png"
-    },
-    {
-      "name": "Cosa",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/cosazeku" },
-        { "platform": "twitter", "url": "https://x.com/cosazeku" }
-      ],
-      "image": "/images/ken//cosa.png"
-    }
-  ],
+  {
+    "name": "Chris T",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@christatarian1" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/chris_tatarian", "streamer": "chris_tatarian" },
+      { "platform": "twitter", "url": "https://x.com/Chris_Tatarian" }
+    ],
+    "image": "/images/ken//christ.png"
+  },
+  {
+    "name": "Booce",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@booce6969" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/BooceFGC", "streamer": "BooceFGC" },
+      { "platform": "twitter", "url": "https://x.com/BooceFGC" }
+    ],
+    "image": "/images/ken//booce.png"
+  },
+  {
+    "name": "Ryukichi",
+    "links": [
+      { "platform": "youtube", "url": "www.youtube.com/@ryukichi1214?si=UlqAfZ3n7k6Qaeuf" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/ryukichi_", "streamer": "ryukichi_" },
+      { "platform": "twitter", "url": "https://x.com/ryukichi1214" }
+    ],
+    "image": "/images/ken//ryukichi.png"
+  },
+  {
+    "name": "Halibel",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@GGHalibel" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/gghalibel", "streamer": "gghalibel" },
+      { "platform": "twitter", "url": "https://x.com/GGHalibel" }
+    ],
+    "image": "/images/ken//halibel.png"
+  },
+  {
+    "name": "Angrybird",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@Fgc_birds" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/fgc_birds", "streamer": "fgc_birds" },
+      { "platform": "twitter", "url": "https://x.com/FGC_Angrybird" }
+    ],
+    "image": "/images/ken//angrybird.png"
+  },
+  {
+    "name": "Tokido",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@Tokido" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/tokidoki77", "streamer": "tokidoki77" },
+      { "platform": "twitter", "url": "https://x.com/tokidoki77" }
+    ],
+    "image": "/images/ken//tokido.png"
+  },
+  {
+    "name": "Nauman",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@naumanzoh" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/naumanzoh", "streamer": "naumanzoh" },
+      { "platform": "twitter", "url": "https://x.com/naumanzoh" }
+    ],
+    "image": "/images/ken//nuaman.png"
+  },
+  {
+    "name": "Takamura",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/takamura2707", "streamer": "takamura2707" },
+      { "platform": "twitter", "url": "https://x.com/Takamura_Be" }
+    ],
+    "image": "/images/ken//takamura.png"
+  },
+  {
+    "name": "Cosa",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/cosazeku", "streamer": "cosazeku" },
+      { "platform": "twitter", "url": "https://x.com/cosazeku" }
+    ],
+    "image": "/images/ken//cosa.png"
+  },
+  {
+    "name": "Musclenoob",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/musclenoob", "streamer": "musclenoob" },
+      { "platform": "twitter", "url": "https://x.com/TheMusclenoob/photo" },
+      { "platform": "youtube", "url": "https://www.youtube.com/@MuscleNoob" }
+    ],
+    "image": "/images/ken//musclenoob.png"
+  }
+]
+,
   "labbers": [
     {
       "name": "Rush G",
@@ -4517,7 +4522,7 @@
     "type": "achievement",
     "title": "Narikun Bam Melbourne Win",
     "image": "/images/kimberly/nariii.jpg",
-    "link": "https://youtu.be/n2tOCTIL4QA?si=RzIOiNJsi6yPopln",
+    "link": "https://www.youtube.com/embed/n2tOCTIL4QA?si=Kb_91dpzgx--jSta",
     "className": "achievement"
   },
   {
@@ -4710,134 +4715,135 @@
     }
   ],
   "streamers": [
-    {
-      "name": "Psycho",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/psychofl" },
-        { "platform": "twitter", "url": "https://x.com/Psycho_FL" }
-      ],
-      "image": "/images/kimberly//psycho.png"
-    },
-    {
-      "name": "Shine",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ShineNYC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/shinenyc" },
-        { "platform": "twitter", "url": "https://x.com/Shine_NYC" }
-      ],
-      "image": "/images/kimberly//shine.png"
-    },
-    {
-      "name": "True Tech",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@True_TechFGC/videos" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/true_tech" },
-        { "platform": "twitter", "url": "https://x.com/True_Tech" }
-      ],
-      "image": "/images/kimberly//truetech.png"
-    },
-    {
-      "name": "Matsu",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UC-E96MP8gX0xBoFuXgbG-HQ" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/matsugorou" },
-        { "platform": "twitter", "url": "https://x.com/matsugorou" }
-      ],
-      "image": "/images/kimberly//matsu.png"
-    },
-    {
-      "name": "Doma",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/domaxd_" }
-      ],
-      "image": "/images/kimberly//domaxd.png"
-    },
-    {
-      "name": "Surini",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@surini69/videos" },
-        { "platform": "twitter", "url": "https://x.com/SURINI_SURINI" }
-      ],
-      "image": "/images/kimberly//surini.png"
-    },
-    {
-      "name": "Diaphone",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@Diaphone" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/diaphone_" },
-        { "platform": "twitter", "url": "https://x.com/Diaphone_" }
-      ],
-      "image": "/images/kimberly//diaphone.png"
-    },
-    {
-      "name": "Scythe",
-      "links": [
-        { "platform": "youtube", "url": "http://youtube.com/@ScytheLDN" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/scythe_ldn" },
-        { "platform": "twitter", "url": "https://x.com/Scythe_LDN" }
-      ],
-      "image": "/images/kimberly//scythe.png"
-    },
-    {
-      "name": "Fierce",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/yofierce" },
-        { "platform": "twitter", "url": "https://x.com/yoofierce" }
-      ],
-      "image": "/images/kimberly//fierce.png"
-    },
-    {
-      "name": "Zykles",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@Zykles" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/zykles_56" },
-        { "platform": "twitter", "url": "https://x.com/Zykles__" }
-      ],
-      "image": "/images/kimberly//zykles.png"
-    },
-    {
-      "name": "Fiesty",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/zfiesty" },
-        { "platform": "twitter", "url": "https://x.com/zFiesty_" }
-      ],
-      "image": "/images/kimberly//fiesty.png"
-    },
-    {
-      "name": "Pipokun",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@pipokun2025" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/odd_pipokun" },
-        { "platform": "twitter", "url": "https://x.com/pipokun2011" }
-      ],
-      "image": "/images/kimberly//pipokun.png"
-    },
-    {
-      "name": "Deznere",
-      "links": [
-        { "platform": "twitch", "url": "https://x.com/Deznere" },
-        { "platform": "twitter", "url": "https://x.com/Deznere" }
-      ],
-      "image": "/images/kimberly//dez.png"
-    },
-    {
-      "name": "Saltykid",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/s4ltykid" },
-        { "platform": "twitter", "url": "https://x.com/s4ltyKiD" }
-      ],
-      "image": "/images/kimberly//s4ltykid.png"
-    },
-    {
-      "name": "Cuhzlightyear",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@CuhzLightYear_/videos" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/cuhzlightyear_" },
-        { "platform": "twitter", "url": "https://x.com/CuhzLightYear__" }
-      ],
-      "image": "/images/kimberly//cuhz.png"
-    }
-  ],
+  {
+    "name": "Psycho",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/psychofl", "streamer": "psychofl" },
+      { "platform": "twitter", "url": "https://x.com/Psycho_FL" }
+    ],
+    "image": "/images/kimberly//psycho.png"
+  },
+  {
+    "name": "Shine",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@ShineNYC" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/shinenyc", "streamer": "shinenyc" },
+      { "platform": "twitter", "url": "https://x.com/Shine_NYC" }
+    ],
+    "image": "/images/kimberly//shine.png"
+  },
+  {
+    "name": "True Tech",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@True_TechFGC/videos" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/true_tech", "streamer": "true_tech" },
+      { "platform": "twitter", "url": "https://x.com/True_Tech" }
+    ],
+    "image": "/images/kimberly//truetech.png"
+  },
+  {
+    "name": "Matsu",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UC-E96MP8gX0xBoFuXgbG-HQ" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/matsugorou", "streamer": "matsugorou" },
+      { "platform": "twitter", "url": "https://x.com/matsugorou" }
+    ],
+    "image": "/images/kimberly//matsu.png"
+  },
+  {
+    "name": "Doma",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/domaxd_", "streamer": "domaxd_" }
+    ],
+    "image": "/images/kimberly//domaxd.png"
+  },
+  {
+    "name": "Surini",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@surini69/videos" },
+      { "platform": "twitter", "url": "https://x.com/SURINI_SURINI" }
+    ],
+    "image": "/images/kimberly//surini.png"
+  },
+  {
+    "name": "Diaphone",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@Diaphone" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/diaphone_", "streamer": "diaphone_" },
+      { "platform": "twitter", "url": "https://x.com/Diaphone_" }
+    ],
+    "image": "/images/kimberly//diaphone.png"
+  },
+  {
+    "name": "Scythe",
+    "links": [
+      { "platform": "youtube", "url": "http://youtube.com/@ScytheLDN" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/scythe_ldn", "streamer": "scythe_ldn" },
+      { "platform": "twitter", "url": "https://x.com/Scythe_LDN" }
+    ],
+    "image": "/images/kimberly//scythe.png"
+  },
+  {
+    "name": "Fierce",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/yofierce", "streamer": "yofierce" },
+      { "platform": "twitter", "url": "https://x.com/yoofierce" }
+    ],
+    "image": "/images/kimberly//fierce.png"
+  },
+  {
+    "name": "Zykles",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@Zykles" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/zykles_56", "streamer": "zykles_56" },
+      { "platform": "twitter", "url": "https://x.com/Zykles__" }
+    ],
+    "image": "/images/kimberly//zykles.png"
+  },
+  {
+    "name": "Fiesty",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/zfiesty", "streamer": "zfiesty" },
+      { "platform": "twitter", "url": "https://x.com/zFiesty_" }
+    ],
+    "image": "/images/kimberly//fiesty.png"
+  },
+  {
+    "name": "Pipokun",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@pipokun2025" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/odd_pipokun", "streamer": "odd_pipokun" },
+      { "platform": "twitter", "url": "https://x.com/pipokun2011" }
+    ],
+    "image": "/images/kimberly//pipokun.png"
+  },
+  {
+    "name": "Deznere",
+    "links": [
+      { "platform": "twitch", "url": "https://x.com/Deznere", "streamer": "Deznere" },
+      { "platform": "twitter", "url": "https://x.com/Deznere" }
+    ],
+    "image": "/images/kimberly//dez.png"
+  },
+  {
+    "name": "Saltykid",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/s4ltykid", "streamer": "s4ltykid" },
+      { "platform": "twitter", "url": "https://x.com/s4ltyKiD" }
+    ],
+    "image": "/images/kimberly//s4ltykid.png"
+  },
+  {
+    "name": "Cuhzlightyear",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@CuhzLightYear_/videos" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/cuhzlightyear_", "streamer": "cuhzlightyear_" },
+      { "platform": "twitter", "url": "https://x.com/CuhzLightYear__" }
+    ],
+    "image": "/images/kimberly//cuhz.png"
+  }
+]
+,
   "labbers": [
     {
       "name": "Gadi",
@@ -4866,13 +4872,20 @@
         { "platform": "twitter", "url": "https://x.com/derricott_pm" }
       ],
       "image": "/images/kimberly//dericott.png"
-    }
+    },
+    {
+    "name": "Ivory",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/IvoryZ777" }
+    ],
+    "image": "/images/elena//ivory.png"
+  }
   ],
   "tournaments": [
     {
       "name": "BAM Melbourne",
       "image": "/images/kimberly//bam-2025-logo.png",
-      "link": "https://youtu.be/n2tOCTIL4QA?si=1g7Av6tkaahKCtfI"
+      "link": "https://www.youtube.com/embed/n2tOCTIL4QA?si=Kb_91dpzgx--jSta"
     },
     {
       "name": "SFL US",
@@ -4880,9 +4893,9 @@
       "link": "https://www.youtube.com/playlist?list=PLnJYUs2wpsOJSjKkkWDQ7MDS5dSm9_iZ7"
     },
     {
-      "name": "Super Major",
+      "name": "CPT Europe West",
       "image": "/images/kimberly//super.png",
-      "link": "https://www.youtube.com/live/n4z66r64miU?si=DxDPm1V0LjL-tmxp"
+      "link": "https://www.youtube.com/embed/n4z66r64miU?si=GujPB5BQyBWcyO_b"
     }
   ],
   "sidebar": [
@@ -4931,7 +4944,7 @@
     "type": "achievement",
     "title": "El Chakotay Combo Breaker",
     "image": "/images/lily/achievement.jpg",
-    "link": "https://youtu.be/QXdQRItxK9w?si=RFFh7Cya3_F8MGXX",
+    "link": "https://www.youtube.com/embed/QXdQRItxK9w?si=GuCpDWWtyviquAlu",
     "className": "achievement"
   },
   {
@@ -5064,55 +5077,56 @@
     }
   ],
   "streamers": [
-    {
-      "name": "Hibiki",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/hibikithebeast" },
-        { "platform": "twitter", "url": "https://x.com/HibikiTheBeast" }
-      ],
-      "image": "/images/lily//hibiki.png"
-    },
-    {
-      "name": "Iperu",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/iperu" },
-        { "platform": "twitter", "url": "https://x.com/801iPeru" }
-      ],
-      "image": "/images/lily//iperu.png"
-    },
-    {
-      "name": "El Chakotay",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCyoEdSymlmPLvJ3PskwhHDg" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/elchakotay" },
-        { "platform": "twitter", "url": "https://x.com/ElChakotay" }
-      ],
-      "image": "/images/lily//chakotay.png"
-    },
-    {
-      "name": "Kouji kog",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCNS6pu6eV3TYRjx1e3CLY9Q" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/koujikog" },
-        { "platform": "twitter", "url": "https://x.com/kkkog" }
-      ],
-      "image": "/images/lily//kouji.png"
-    },
-    {
-      "name": "Xisin",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/xisin14" },
-        { "platform": "twitter", "url": "https://x.com/XisinSF6" }
-      ],
-      "image": "/images/lily//xisin.png"
-    }
-  ],
+  {
+    "name": "Hibiki",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/hibikithebeast", "streamer": "hibikithebeast" },
+      { "platform": "twitter", "url": "https://x.com/HibikiTheBeast" }
+    ],
+    "image": "/images/lily//hibiki.png"
+  },
+  {
+    "name": "Iperu",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/iperu", "streamer": "iperu" },
+      { "platform": "twitter", "url": "https://x.com/801iPeru" }
+    ],
+    "image": "/images/lily//iperu.png"
+  },
+  {
+    "name": "El Chakotay",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UCyoEdSymlmPLvJ3PskwhHDg" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/elchakotay", "streamer": "elchakotay" },
+      { "platform": "twitter", "url": "https://x.com/ElChakotay" }
+    ],
+    "image": "/images/lily//chakotay.png"
+  },
+  {
+    "name": "Kouji kog",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UCNS6pu6eV3TYRjx1e3CLY9Q" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/koujikog", "streamer": "koujikog" },
+      { "platform": "twitter", "url": "https://x.com/kkkog" }
+    ],
+    "image": "/images/lily//kouji.png"
+  },
+  {
+    "name": "Xisin",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/xisin14", "streamer": "xisin14" },
+      { "platform": "twitter", "url": "https://x.com/XisinSF6" }
+    ],
+    "image": "/images/lily//xisin.png"
+  }
+]
+,
   "labbers": [],
   "tournaments": [
     {
       "name": "Combo Breaker",
       "image": "/images/lily//combobreak.png",
-      "link": "https://youtu.be/qQYDz4Y8iq4?si=cg-NA4_8u69JVoHq"
+      "link": "https://www.youtube.com/embed/QXdQRItxK9w?si=GuCpDWWtyviquAlu"
     }
   ],
   "sidebar": [
@@ -5352,89 +5366,90 @@
       "--light-color": "#6b8bb5"
     }
   ],
-  "streamers": [
-    {
-      "name": "Noah",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/noahtheprodigy12" },
-        { "platform": "twitter", "url": "https://x.com/NoahtheProdigy" }
-      ],
-      "image": "/images/luke//noah.png"
-    },
-    {
-      "name": "Kami",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCIrcRafMYaSCAjeRJha6ZcA" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/whatiskami" },
-        { "platform": "twitter", "url": "https://x.com/whatiskami" }
-      ],
-      "image": "/images/luke//kami.png"
-    },
-    {
-      "name": "Chris Wong",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/chriswong8201" },
-        { "platform": "twitter", "url": "https://x.com/ChrisWong1028" }
-      ],
-      "image": "/images/luke//chriswong.png"
-    },
-    {
-      "name": "Mena",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@saulmenard" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/MenaRD_FGC" },
-        { "platform": "twitter", "url": "https://x.com/_MenaRD__" }
-      ],
-      "image": "/images/luke//mena.png"
-    },
-    {
-      "name": "Juninho-Ras",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/juninho_ras" },
-        { "platform": "twitter", "url": "https://x.com/JuninhoRas" }
-      ],
-      "image": "/images/luke//juninho.png"
-    },
-    {
-      "name": "Ebihara",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/ebihara666" },
-        { "platform": "twitter", "url": "https://x.com/ebihara_666" }
-      ],
-      "image": "/images/luke//ebihara.png"
-    },
-    {
-      "name": "Abood",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/bboy_brothers" },
-        { "platform": "twitter", "url": "https://x.com/Abood__bboy" }
-      ],
-      "image": "/images/luke//abood.png"
-    },
-    {
-      "name": "Ugang",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/ugang0502" },
-        { "platform": "twitter", "url": "https://x.com/ugang_fgc/" }
-      ],
-      "image": "/images/luke//ugang.png"
-    },
-    {
-      "name": "FlawlessDeku",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/user/FlawlessJ535" },
-        { "platform": "twitter", "url": "https://x.com/FlawlessDeku" }
-      ],
-      "image": "/images/luke//deku.png"
-    },
-    {
-      "name": "Pulgaa",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/Pulga_Alma" }
-      ],
-      "image": "/images/luke//pulga.png"
-    }
-  ],
+ "streamers": [
+  {
+    "name": "Noah",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/noahtheprodigy12", "streamer": "noahtheprodigy12" },
+      { "platform": "twitter", "url": "https://x.com/NoahtheProdigy" }
+    ],
+    "image": "/images/luke//noah.png"
+  },
+  {
+    "name": "Kami",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UCIrcRafMYaSCAjeRJha6ZcA" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/whatiskami", "streamer": "whatiskami" },
+      { "platform": "twitter", "url": "https://x.com/whatiskami" }
+    ],
+    "image": "/images/luke//kami.png"
+  },
+  {
+    "name": "Chris Wong",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/chriswong8201", "streamer": "chriswong8201" },
+      { "platform": "twitter", "url": "https://x.com/ChrisWong1028" }
+    ],
+    "image": "/images/luke//chriswong.png"
+  },
+  {
+    "name": "Mena",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@saulmenard" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/MenaRD_FGC", "streamer": "MenaRD_FGC" },
+      { "platform": "twitter", "url": "https://x.com/_MenaRD__" }
+    ],
+    "image": "/images/luke//mena.png"
+  },
+  {
+    "name": "Juninho-Ras",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/juninho_ras", "streamer": "juninho_ras" },
+      { "platform": "twitter", "url": "https://x.com/JuninhoRas" }
+    ],
+    "image": "/images/luke//juninho.png"
+  },
+  {
+    "name": "Ebihara",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/ebihara666", "streamer": "ebihara666" },
+      { "platform": "twitter", "url": "https://x.com/ebihara_666" }
+    ],
+    "image": "/images/luke//ebihara.png"
+  },
+  {
+    "name": "Abood",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/bboy_brothers", "streamer": "bboy_brothers" },
+      { "platform": "twitter", "url": "https://x.com/Abood__bboy" }
+    ],
+    "image": "/images/luke//abood.png"
+  },
+  {
+    "name": "Ugang",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/ugang0502", "streamer": "ugang0502" },
+      { "platform": "twitter", "url": "https://x.com/ugang_fgc/" }
+    ],
+    "image": "/images/luke//ugang.png"
+  },
+  {
+    "name": "FlawlessDeku",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/user/FlawlessJ535" },
+      { "platform": "twitter", "url": "https://x.com/FlawlessDeku" }
+    ],
+    "image": "/images/luke//deku.png"
+  },
+  {
+    "name": "Pulgaa",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/Pulga_Alma" }
+    ],
+    "image": "/images/luke//pulga.png"
+  }
+]
+,
   "labbers": [
     {
       "name": "FlyingCube",
@@ -5449,7 +5464,7 @@
     {
       "name": "CEO 2023",
       "image": "/images/luke//ceo2023.png",
-      "link": "https://youtu.be/M2laHeGBDZ0?si=YuInm4Q3Mk8eGeR-"
+      "link": "https://www.youtube.com/embed/M2laHeGBDZ0?si=ls1Vm4EfzDAg4tyV"
     },
     {
       "name": "CPT France",
@@ -5459,17 +5474,17 @@
     {
       "name": "Red Bull Kumite 2024",
       "image": "/images/luke//redbullkumite.png",
-      "link": "https://www.youtube.com/live/tRXAVetlfS4?si=CcKSxodqylZUmOqy"
+      "link": "https://www.youtube.com/embed/tRXAVetlfS4?si=HRgNKvXCA8j5fi5z"
     },
     {
       "name": "EVO Japan",
       "image": "/images/luke//evojapan.png",
-      "link": "https://youtu.be/a4WgtaIRwek?si=ti3-xqjTq8jfaK0m"
+      "link": "https://www.youtube.com/embed/a4WgtaIRwek?si=aAasxr26M4m48cOD"
     },
     {
       "name": "Blink",
       "image": "/images/luke//blink.png",
-      "link": "https://www.youtube.com/live/xBMNRK0CxfM?si=73wlWqBytL-qAQPi"
+      "link": "https://www.youtube.com/embed/xBMNRK0CxfM?si=mO7o4XL5tZmvE-zQ"
     }
   ],
   "sidebar": [
@@ -5502,10 +5517,10 @@
     "buttonColor": "white"
   }
 }
-
 }, "mai": {
   "name": "Mai",
   "image": "/images/mai//profilepic.png",
+  "background": "/images/mai/background.jpg",
   "carousel": [
   {
     "type": "text",
@@ -5517,7 +5532,7 @@
     "type": "achievement",
     "title": "Leshar Combo Breaker",
     "image": "/images/mai/achievement.jpg",
-    "link": "https://youtu.be/siOjz_vHKoI?si=AlZKkKZvdwyNTZ5A",
+    "link": "https://www.youtube.com/embed/siOjz_vHKoI?si=eV9cRP0Vk6pZFSab",
     "className": "achievement"
   },
   {
@@ -5730,458 +5745,112 @@
     }
   ],
   "streamers": [
-    {
-      "name": "Xiaohai",
-      "links": [
-        { "platform": "youtube", "url": "https://space.bilibili.com/104777016/upload/video" },
-        { "platform": "twitch", "url": "https://www.douyu.com/2125?dyshid=0-&dyshci=29" },
-        { "platform": "twitter", "url": "https://x.com/Xiaohai_" }
-      ],
-      "image": "/images/mai//xiaohai.png"
-    },
-    {
-      "name": "Moke",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@mokeasobi" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/lllmokelll" },
-        { "platform": "twitter", "url": "https://x.com/lllmokelll" }
-      ],
-      "image": "/images/mai//moke.png"
-    },
-    {
-      "name": "Orarinn",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/orarin1" },
-        { "platform": "twitter", "url": "https://x.com/orachaaaaaan" }
-      ],
-      "image": "/images/mai//orarinn.png"
-    },
-    {
-      "name": "Nephew",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/c/nephewdork" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/nephewdork" },
-        { "platform": "twitter", "url": "https://x.com/nephewdork" }
-      ],
-      "image": "/images/mai//nephew.png"
-    },
-    {
-      "name": "Yamaguchi",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/yama1128_fgc" },
-        { "platform": "twitter", "url": "https://x.com/yamae1128" }
-      ],
-      "image": "/images/mai//yamaguchi.png"
-    },
-    {
-      "name": "Momochi",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCPB5UJ70KDnL_hy0TyT79NA" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/momochoco" },
-        { "platform": "twitter", "url": "https://x.com/momochi212" }
-      ],
-      "image": "/images/mai//momochi.png"
-    },
-    {
-      "name": "Leshar",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/leshar15" }
-      ],
-      "image": "/images/mai//leshar.png"
-    },
-    {
-      "name": "Kilzyou",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/kilzyouu" },
-        { "platform": "twitter", "url": "https://x.com/Kilzyou" }
-      ],
-      "image": "/images/mai//kilzyou.png"
-    },
-    {
-      "name": "Spaceboy",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/spaceboyfgc" },
-        { "platform": "twitter", "url": "https://x.com/Imyourspaceboy" }
-      ],
-      "image": "/images/mai//spaceboy.png"
-    },
-    {
-      "name": "Shine",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ShineNYC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/shinenyc" },
-        { "platform": "twitter", "url": "https://x.com/Shine_NYC" }
-      ],
-      "image": "/images/mai//shine.png"
-    },
-    {
-      "name": "Haitani",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@TV-fp4zl" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/haitani0904" },
-        { "platform": "twitter", "url": "https://x.com/hai090" }
-      ],
-      "image": "/images/mai//haitani.png"
-    }
-  ],
-  "labbers": [],
-  "tournaments": [
-    {
-      "name": "Combo Breaker",
-      "image": "/images/mai//combobreaker.png",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
-    },
-    {
-      "name": "CEO",
-      "image": "/images/mai//ceo.png",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
-    }
-  ],
-  "sidebar": [
-    { "title": "Discord", "url": "https://discord.gg/gUPTGEJwtn" },
-    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Mai" },
-    { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1FbVBHVblPjgjdaCkYMJzwBzSKHN0rrOMIU3vxUWBq7Q/edit?gid=681564757#gid=681564757" },
-    { "title": "Replays", "url": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9IxvmyomQImOG_kYY7dsFQX" },
-    { "title": "Achievement", "url": "https://www.youtube.com/live/OnzHjbZxxA8?si=RV6xkU6lHrB-LI8M" }
-  ],
-  "section": [
-    { "title": "Discord", "url": "https://discord.gg/gUPTGEJwtn" },
-    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Mai" },
-    { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1FbVBHVblPjgjdaCkYMJzwBzSKHN0rrOMIU3vxUWBq7Q/edit?gid=681564757#gid=681564757" },
-    { "title": "music", "url": "Street Fighter 6 - Mai's ThemeOST  Enryuujin SF6 Arrange  Extended Remix.mp3" }
-  ]
-}, "mai": {
-  "name": "Mai",
-  "image": "/images/mai//profilepic.png",
-  "carousel": [
   {
-    "type": "text",
-    "title": "Mai <span class='hub' style='color: {color};'>Center</span>",
-    "description": "Welcome to the ultimate Mai hub in Street Fighter 6! Whether you're just starting out or a seasoned pro, you'll find tips, combos, and strategies to harness her agility and tricky mix-ups. Get ready to take your game to the next level!",
-    "className": "firstone"
+    "name": "Xiaohai",
+    "links": [
+      { "platform": "youtube", "url": "https://space.bilibili.com/104777016/upload/video" },
+      { "platform": "twitch", "url": "https://www.douyu.com/2125?dyshid=0-&dyshci=29" },
+      { "platform": "twitter", "url": "https://x.com/Xiaohai_" }
+    ],
+    "image": "/images/mai//xiaohai.png"
   },
   {
-    "type": "achievement",
-    "title": "Leshar Combo Breaker",
-    "image": "/images/mai/achievement.jpg",
-    "link": "https://youtu.be/siOjz_vHKoI?si=AlZKkKZvdwyNTZ5A",
-    "className": "achievement"
+    "name": "Moke",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@mokeasobi" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/lllmokelll", "streamer": "lllmokelll" },
+      { "platform": "twitter", "url": "https://x.com/lllmokelll" }
+    ],
+    "image": "/images/mai//moke.png"
   },
   {
-    "type": "replaysmaller",
-    "title": "Watch High Level Mai Replays",
-    "buttonLabel": "WATCH NOW",
-    "buttonIcon": "fa-solid fa-play",
-    "buttonLink": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9IxvmyomQImOG_kYY7dsFQX",
-    "image": "/images/mai/replay.png",
-    "className": "replay"
+    "name": "Orarinn",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/orarin1", "streamer": "orarin1" },
+      { "platform": "twitter", "url": "https://x.com/orachaaaaaan" }
+    ],
+    "image": "/images/mai//orarinn.png"
   },
   {
-    "type": "text",
-    "title": "Coming Soon <span style='color: {color};'>...</span>",
-    "description": "More Mai tech and tournament breakdowns are on the way. Stay tuned!",
-    "className": "firstone"
+    "name": "Nephew",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/c/nephewdork" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/nephewdork", "streamer": "nephewdork" },
+      { "platform": "twitter", "url": "https://x.com/nephewdork" }
+    ],
+    "image": "/images/mai//nephew.png"
+  },
+  {
+    "name": "Yamaguchi",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/yama1128_fgc", "streamer": "yama1128_fgc" },
+      { "platform": "twitter", "url": "https://x.com/yamae1128" }
+    ],
+    "image": "/images/ed//yamaguchi.png"
+  },
+  {
+    "name": "Momochi",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UCPB5UJ70KDnL_hy0TyT79NA" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/momochoco", "streamer": "momochoco" },
+      { "platform": "twitter", "url": "https://x.com/momochi212" }
+    ],
+    "image": "/images/mai//momochi.png"
+  },
+  {
+    "name": "Leshar",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/leshar15" }
+    ],
+    "image": "/images/mai//leshar.png"
+  },
+  {
+    "name": "Kilzyou",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/kilzyouu", "streamer": "kilzyouu" },
+      { "platform": "twitter", "url": "https://x.com/Kilzyou" }
+    ],
+    "image": "/images/mai//kilzyou.png"
+  },
+  {
+    "name": "Spaceboy",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/spaceboyfgc", "streamer": "spaceboyfgc" },
+      { "platform": "twitter", "url": "https://x.com/Imyourspaceboy" }
+    ],
+    "image": "/images/mai//spaceboy.png"
+  },
+  {
+    "name": "Shine",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@ShineNYC" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/shinenyc", "streamer": "shinenyc" },
+      { "platform": "twitter", "url": "https://x.com/Shine_NYC" }
+    ],
+    "image": "/images/mai//shine.png"
+  },
+  {
+    "name": "Haitani",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@TV-fp4zl" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/haitani0904", "streamer": "haitani0904" },
+      { "platform": "twitter", "url": "https://x.com/hai090" }
+    ],
+    "image": "/images/mai//haitani.png"
   }
 ]
 ,
-  "tech": [
-    {
-      "title": "Mai season 3 changes",
-      "description": "Mai's patch notes for the recent season 3 changes",
-      "skill": "beginner",
-      "link": "https://www.youtube.com/embed/AdlrUj8R4JM?si=TtS-0lrWQ4juNXEc",
-      "image": "/images/mai//season3_stacked_cool_full.png",
-      "--base-color": "#b71c83",
-      "--dark-color": "#8b0e85",
-      "--light-color": "#d66e9a"
-    },
-    {
-      "title": "Introduction to Mai",
-      "description": "This video is a basic introduction to Mai",
-      "skill": "beginner",
-      "link": "https://www.youtube.com/embed/H4m0P2YBAjM?si=01g5eOwa-GgHjqdi",
-      "image": "/images/mai//intro.png",
-      "--base-color": "#B71C1C",
-      "--dark-color": "#8B0E0E",
-      "--light-color": "#ff6b6b"
-    },
-    {
-      "title": "Mai Combos",
-      "description": "A breakdown of Mai's essential combos.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/F5LDjZpvvZg?si=zx_NrUZi0Zm01Ape",
-      "image": "/images/mai//combo.png",
-      "--base-color": "#880E4F",
-      "--dark-color": "#5C0A36",
-      "--light-color": "#d66e9a"
-    },
-    {
-      "title": "Oki Pressure",
-      "description": "How to run oki effectively with Mai.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/2nqeLIbdOPg?si=sxM5fCuFWeUEbqMt",
-      "image": "/images/mai//oki.png",
-      "--base-color": "#4A148C",
-      "--dark-color": "#320A61",
-      "--light-color": "#b39ddb"
-    },
-    {
-      "title": "Mai Throw Loop",
-      "description": "A look at Mai's throw loop pressure.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/9cG8vF5CD5M?si=fbfWBambb5wme-_l",
-      "image": "/images/mai//throwloop.png",
-      "--base-color": "#1A237E",
-      "--dark-color": "#11185A",
-      "--light-color": "#7986cb"
-    },
-    {
-      "title": "Mai Blockstrings",
-      "description": "Safe and tight blockstrings for Mai.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/OlO8Xhnm-uM?si=9sjdQ0ROyVQbKwLM",
-      "image": "/images/mai//blockstrings.png",
-      "--base-color": "#004D40",
-      "--dark-color": "#00332A",
-      "--light-color": "#4db6ac"
-    },
-    {
-      "title": "Behind Fan Pressure",
-      "description": "Utilizing fan projectiles for pressure.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/HZBFw5GVchw?si=KyEqPV7qPMKVr_ML",
-      "image": "/images/mai//behindfan.png",
-      "--base-color": "#0D47A1",
-      "--dark-color": "#082D65",
-      "--light-color": "#64b5f6"
-    },
-    {
-      "title": "Meaty EX Fireball Oki",
-      "description": "How to set up meaty EX fireball oki.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/FIFFSyAN-RU?si=MCHvRqgMKsi48oGJ",
-      "image": "/images/mai//exfan.png",
-      "--base-color": "#6D4C41",
-      "--dark-color": "#4A342C",
-      "--light-color": "#bcaaa4"
-    },
-    {
-      "title": "Mai Air-to-Air Combos",
-      "description": "Air-to-air confirms and conversions.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/Y4uxFIPN6Zc?si=9sDJnPtN5zGDHceZ",
-      "image": "/images/mai//airtoair.png",
-      "--base-color": "#AD1457",
-      "--dark-color": "#7A0E3C",
-      "--light-color": "#f06292"
-    },
-    {
-      "title": "Fireball Conversions",
-      "description": "Comboing after fireballs.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/KhUNl7yTp84?si=rbIGSPLB2Smm1hmH",
-      "image": "/images/mai//conversions.png",
-      "--base-color": "#C62828",
-      "--dark-color": "#911D1D",
-      "--light-color": "#ef5350"
-    },
-    {
-      "title": "Stun Combos (No Firestocks)",
-      "description": "Max damage stun combos without firestocks.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/watch?v=p6sCzue8U-c&list=PLSGgQTqIFIj6HhUx7E0w5-chak8COcet6&index=8",
-      "image": "/images/mai//stuncombo.png",
-      "--base-color": "#EF6C00",
-      "--dark-color": "#B95200",
-      "--light-color": "#ffab40"
-    },
-    {
-      "title": "Stun Combos (With Firestocks)",
-      "description": "High damage stun combos using firestocks.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/SVP-nHrKix4?si=ko0HmxsQ4fB6EBBV",
-      "image": "/images/mai//stunfirecombo.png",
-      "--base-color": "#F9A825",
-      "--dark-color": "#C48A1B",
-      "--light-color": "#ffcc02"
-    },
-    {
-      "title": "Drive Impact Punishes",
-      "description": "How Mai deals with Drive Impact.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/kQiKv7rZ9H0?si=SVrE7KUHxxBQlz5s",
-      "image": "/images/mai//driceimpact.png",
-      "--base-color": "#6A1B9A",
-      "--dark-color": "#4D1370",
-      "--light-color": "#ba68c8"
-    },
-    {
-      "title": "Mai in Burnout",
-      "description": "Managing offense while in burnout.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/Q-79y_Y38dc?si=9BbjFlkHeDOIUy31",
-      "image": "/images/mai//burnout.png",
-      "--base-color": "#37474F",
-      "--dark-color": "#263238",
-      "--light-color": "#78909c"
-    },
-    {
-      "title": "Reset Options",
-      "description": "Reset setups for continued pressure.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/yCwC6j1I0zg?si=96ABSxTJZZizStWp&start=366",
-      "image": "/images/mai//reset.png",
-      "--base-color": "#3E2723",
-      "--dark-color": "#2B1A18",
-      "--light-color": "#8d6e63"
-    },
-    {
-      "title": "Safejumps",
-      "description": "Safejump setups to keep opponents honest.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/yCwC6j1I0zg?si=96ABSxTJZZizStWp&start=295",
-      "image": "/images/mai//safejump.png",
-      "--base-color": "#F06292",
-      "--dark-color": "#AD476B",
-      "--light-color": "#f8bbd9"
-    },
-    {
-      "title": "Advanced Tech",
-      "description": "Technical setups and hidden tricks.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/ogcc7QXOkMI?si=UhVvM27du6LuY3F3&start=295",
-      "image": "/images/mai//tech.png",
-      "--base-color": "#5D4037",
-      "--dark-color": "#422E28",
-      "--light-color": "#8d6e63"
-    },
-    {
-      "title": "Sideswitch Combos",
-      "description": "Switching sides mid-combo.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/yCwC6j1I0zg?si=96ABSxTJZZizStWp&start=350",
-      "image": "/images/mai//sideswitch.png",
-      "--base-color": "#283593",
-      "--dark-color": "#1C2567",
-      "--light-color": "#7986cb"
-    },
-    {
-      "title": "Anti-Mai Strategies",
-      "description": "How to deal with Mai as an opponent.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/jaANNBXZVmA?si=YGQ6orkcjM3aWdw7&start=295",
-      "image": "/images/mai//antimai.png",
-      "--base-color": "#263238",
-      "--dark-color": "#171E22",
-      "--light-color": "#78909c"
-    }
-  ],
-  "streamers": [
-    {
-      "name": "Xiaohai",
-      "links": [
-        { "platform": "youtube", "url": "https://space.bilibili.com/104777016/upload/video" },
-        { "platform": "twitch", "url": "https://www.douyu.com/2125?dyshid=0-&dyshci=29" },
-        { "platform": "twitter", "url": "https://x.com/Xiaohai_" }
-      ],
-      "image": "/images/mai//xiaohai.png"
-    },
-    {
-      "name": "Moke",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@mokeasobi" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/lllmokelll" },
-        { "platform": "twitter", "url": "https://x.com/lllmokelll" }
-      ],
-      "image": "/images/mai//moke.png"
-    },
-    {
-      "name": "Orarinn",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/orarin1" },
-        { "platform": "twitter", "url": "https://x.com/orachaaaaaan" }
-      ],
-      "image": "/images/mai//orarinn.png"
-    },
-    {
-      "name": "Nephew",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/c/nephewdork" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/nephewdork" },
-        { "platform": "twitter", "url": "https://x.com/nephewdork" }
-      ],
-      "image": "/images/mai//nephew.png"
-    },
-    {
-      "name": "Yamaguchi",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/yama1128_fgc" },
-        { "platform": "twitter", "url": "https://x.com/yamae1128" }
-      ],
-      "image": "/images/mai//yamaguchi.png"
-    },
-    {
-      "name": "Momochi",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCPB5UJ70KDnL_hy0TyT79NA" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/momochoco" },
-        { "platform": "twitter", "url": "https://x.com/momochi212" }
-      ],
-      "image": "/images/mai//momochi.png"
-    },
-    {
-      "name": "Leshar",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/leshar15" }
-      ],
-      "image": "/images/mai//leshar.png"
-    },
-    {
-      "name": "Kilzyou",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/kilzyouu" },
-        { "platform": "twitter", "url": "https://x.com/Kilzyou" }
-      ],
-      "image": "/images/mai//kilzyou.png"
-    },
-    {
-      "name": "Spaceboy",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/spaceboyfgc" },
-        { "platform": "twitter", "url": "https://x.com/Imyourspaceboy" }
-      ],
-      "image": "/images/mai//spaceboy.png"
-    },
-    {
-      "name": "Shine",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ShineNYC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/shinenyc" },
-        { "platform": "twitter", "url": "https://x.com/Shine_NYC" }
-      ],
-      "image": "/images/mai//shine.png"
-    },
-    {
-      "name": "Haitani",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@TV-fp4zl" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/haitani0904" },
-        { "platform": "twitter", "url": "https://x.com/hai090" }
-      ],
-      "image": "/images/mai//haitani.png"
-    }
-  ],
   "labbers": [],
   "tournaments": [
     {
       "name": "Combo Breaker",
-      "image": "/images/mai//combobreaker.png",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
+      "image": "/images/mai//combobreak.png",
+      "link": "https://www.youtube.com/embed/siOjz_vHKoI?si=eV9cRP0Vk6pZFSab"
     },
     {
       "name": "CEO",
       "image": "/images/mai//ceo.png",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
+      "link": "https://www.youtube.com/embed/L46_1TRDdeQ?si=C-cG7_MdxJh2-BQo"
     }
   ],
   "sidebar": [
@@ -6189,14 +5858,31 @@
     { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Mai" },
     { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1FbVBHVblPjgjdaCkYMJzwBzSKHN0rrOMIU3vxUWBq7Q/edit?gid=681564757#gid=681564757" },
     { "title": "Replays", "url": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9IxvmyomQImOG_kYY7dsFQX" },
-    { "title": "Achievement", "url": "https://www.youtube.com/live/OnzHjbZxxA8?si=RV6xkU6lHrB-LI8M" }
+    { "title": "Achievement", "url": "https://www.youtube.com/embed/siOjz_vHKoI?si=eV9cRP0Vk6pZFSab" }
   ],
   "section": [
     { "title": "Discord", "url": "https://discord.gg/gUPTGEJwtn" },
     { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Mai" },
     { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1FbVBHVblPjgjdaCkYMJzwBzSKHN0rrOMIU3vxUWBq7Q/edit?gid=681564757#gid=681564757" },
     { "title": "music", "url": "Street Fighter 6 - Mai's ThemeOST  Enryuujin SF6 Arrange  Extended Remix.mp3" }
-  ]
+  ],  "navStyle": {
+  "base": {
+    "backgroundColor": "transparent",
+    "color": "black",
+    "firstColor": "black",
+    "centerColor": "rgb(220,64,41)",
+    "buttonBorder": "3px solid black",
+    "buttonColor": "black"
+  },
+  "scrolled": {
+    "backgroundColor": "rgba(31, 42, 58, 0.8)",
+    "color": "white",
+    "firstColor": "rgb(220,64,41)",
+    "centerColor": "white",
+    "buttonBorder": "3px solid white",
+    "buttonColor": "white"
+  }
+}
   }, 
 "manon": {
   "name": "Manon",
@@ -6213,7 +5899,7 @@
     "type": "achievement",
     "title": "Idom Qualifies for Capcom Cup",
     "image": "/images/manon/achievement.jpg",
-    "link": "https://youtu.be/CN-Pp9t7bJU?si=2ICN_-R2zG3wvOPh",
+    "link": "https://www.youtube.com/embed/CN-Pp9t7bJU?si=UsUEcO_MIfGWKq-F",
     "className": "achievement"
   },
   {
@@ -6365,52 +6051,53 @@
       "--light-color": "#4d8bc7"
     }
   ],
-  "streamers": [
-    {
-      "name": "Idom",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@iDomNYC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/idom_ny" },
-        { "platform": "twitter", "url": "https://x.com/iDomNYC" }
-      ],
-      "image": "/images/manon/idom.png"
-    },
-    {
-      "name": "Randumb",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/RANDUMBFGC" }
-      ],
-      "image": "/images/manon/randumb.jpg"
-    },
-    {
-      "name": "Tachikawa",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@TachikawaBR" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/tachikawabr" },
-        { "platform": "twitter", "url": "https://twitter.com/BCTachikawaSub" }
-      ],
-      "image": "/images/manon/tachikawa.png"
-    },
-    {
-      "name": "Joey",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/joeyfgc" },
-        { "platform": "twitter", "url": "https://twitter.com/Joey_FGC" }
-      ],
-      "image": "/images/manon/joey.png"
-    }
-  ],
+ "streamers": [
+  {
+    "name": "Idom",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@iDomNYC" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/idom_ny", "streamer": "idom_ny" },
+      { "platform": "twitter", "url": "https://x.com/iDomNYC" }
+    ],
+    "image": "/images/manon/idom.png"
+  },
+  {
+    "name": "Randumb",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/RANDUMBFGC" }
+    ],
+    "image": "/images/manon/randumb.jpg"
+  },
+  {
+    "name": "Tachikawa",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@TachikawaBR" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/tachikawabr", "streamer": "tachikawabr" },
+      { "platform": "twitter", "url": "https://twitter.com/BCTachikawaSub" }
+    ],
+    "image": "/images/manon/tachikawa.png"
+  },
+  {
+    "name": "Joey",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/joeyfgc", "streamer": "joeyfgc" },
+      { "platform": "twitter", "url": "https://twitter.com/Joey_FGC" }
+    ],
+    "image": "/images/manon/joey.png"
+  }
+]
+,
   "labbers": [],
   "tournaments": [
     {
-      "name": "Super Nova",
+      "name": "CPT NA East",
       "image": "/images/manon/super.png",
-      "link": "https://www.youtube.com/live/PPqgTtVKKZY?si=i5LMvLWRcTcl5dgr"
+      "link": "https://www.youtube.com/embed/PPqgTtVKKZY?si=_6c8v1B2NhAjn4pn"
     },
     {
       "name": "Genesis X",
       "image": "/images/manon/Genesis_X2_allmode.png",
-      "link": "https://youtu.be/ehVspkql13s?si=3PH1KZk4Og-Ve-rc"
+      "link": "https://www.youtube.com/embed/ehVspkql13s?si=DsIyWdtr6IfKfwiu"
     }
   ],
   "sidebar": [
@@ -6418,14 +6105,15 @@
     { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Manon" },
     { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1nzd_JaLpIAQbU6aNCRQ2Tg8qs_RSrh9_8fTlZGscoWU/edit?gid=0#gid=0" },
     { "title": "Replays", "url": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9KXDa9spT_GucTabWKAgPnO" },
-    { "title": "Achievement", "url": "https://youtu.be/CN-Pp9t7bJU?si=2ICN_-R2zG3wvOPh" }
+    { "title": "Achievement", "url": "https://www.youtube.com/embed/PPqgTtVKKZY?si=_6c8v1B2NhAjn4pn" }
   ],
   "section": [
     { "title": "Discord", "url": "https://discord.gg/yGhCvhgzjW" },
     { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Manon" },
     { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1nzd_JaLpIAQbU6aNCRQ2Tg8qs_RSrh9_8fTlZGscoWU/edit?gid=0#gid=0" },
     { "title": "music", "url": "manon.mp3" }
-  ], "navStyle": {
+  ],
+   "navStyle": {
   "base": {
     "backgroundColor": "transparent",
     "color": "black",
@@ -6446,372 +6134,7 @@
 
 
 
-}, "mai": {
-  "name": "Mai",
-  "image": "/images/mai/profilepic.png",
-  "background": "/images/mai/background.jpg",
-  "carousel": [
-  {
-    "type": "text",
-    "title": "Mai <span class='hub' style='color: {color};'>Center</span>",
-    "description": "Welcome to the ultimate Mai hub in Street Fighter 6! Whether you're just starting out or a seasoned pro, you'll find tips, combos, and strategies to harness her agility and tricky mix-ups. Get ready to take your game to the next level!",
-    "className": "firstone"
-  },
-  {
-    "type": "achievement",
-    "title": "Leshar Combo Breaker",
-    "image": "/images/mai/achievement.jpg",
-    "link": "https://youtu.be/siOjz_vHKoI?si=AlZKkKZvdwyNTZ5A",
-    "className": "achievement"
-  },
-  {
-    "type": "replaysmaller",
-    "title": "Watch High Level Mai Replays",
-    "buttonLabel": "WATCH NOW",
-    "buttonIcon": "fa-solid fa-play",
-    "buttonLink": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9IxvmyomQImOG_kYY7dsFQX",
-    "image": "/images/mai/replay.png",
-    "className": "replay"
-  },
-  {
-    "type": "text",
-    "title": "Coming Soon <span style='color: {color};'>...</span>",
-    "description": "More Mai tech and tournament breakdowns are on the way. Stay tuned!",
-    "className": "firstone"
-  }
-]
-,
-  "tech": [
-    {
-      "title": "Mai season 3 changes",
-      "description": "Mai's patch notes for the recent season 3 changes",
-      "skill": "beginner",
-      "link": "https://www.youtube.com/embed/AdlrUj8R4JM?si=TtS-0lrWQ4juNXEc",
-      "image": "/images/mai/season3_stacked_cool_full.png",
-      "--base-color": "#b71c83",
-      "--dark-color": "#8b0e85",
-      "--light-color": "#d66e9a"
-    },
-    {
-      "title": "Introduction to Mai",
-      "description": "This video is a basic introduction to Mai",
-      "skill": "beginner",
-      "link": "https://www.youtube.com/embed/H4m0P2YBAjM?si=01g5eOwa-GgHjqdi",
-      "image": "/images/mai/intro.png",
-      "--base-color": "#B71C1C",
-      "--dark-color": "#8B0E0E",
-      "--light-color": "#ff6b6b"
-    },
-    {
-      "title": "Mai Combos",
-      "description": "A breakdown of Mai's essential combos.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/F5LDjZpvvZg?si=zx_NrUZi0Zm01Ape",
-      "image": "/images/mai/combo.png",
-      "--base-color": "#880E4F",
-      "--dark-color": "#5C0A36",
-      "--light-color": "#d66e9a"
-    },
-    {
-      "title": "Oki Pressure",
-      "description": "How to run oki effectively with Mai.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/2nqeLIbdOPg?si=sxM5fCuFWeUEbqMt",
-      "image": "/images/mai/oki.png",
-      "--base-color": "#4A148C",
-      "--dark-color": "#320A61",
-      "--light-color": "#b39ddb"
-    },
-    {
-      "title": "Mai Throw Loop",
-      "description": "A look at Mai's throw loop pressure.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/9cG8vF5CD5M?si=fbfWBambb5wme-_l",
-      "image": "/images/mai/throwloop.png",
-      "--base-color": "#1A237E",
-      "--dark-color": "#11185A",
-      "--light-color": "#7986cb"
-    },
-    {
-      "title": "Mai Blockstrings",
-      "description": "Safe and tight blockstrings for Mai.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/OlO8Xhnm-uM?si=9sjdQ0ROyVQbKwLM",
-      "image": "/images/mai/blockstrings.png",
-      "--base-color": "#004D40",
-      "--dark-color": "#00332A",
-      "--light-color": "#4db6ac"
-    },
-    {
-      "title": "Behind Fan Pressure",
-      "description": "Utilizing fan projectiles for pressure.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/HZBFw5GVchw?si=KyEqPV7qPMKVr_ML",
-      "image": "/images/mai/behindfan.png",
-      "--base-color": "#0D47A1",
-      "--dark-color": "#082D65",
-      "--light-color": "#64b5f6"
-    },
-    {
-      "title": "Meaty EX Fireball Oki",
-      "description": "How to set up meaty EX fireball oki.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/FIFFSyAN-RU?si=MCHvRqgMKsi48oGJ",
-      "image": "/images/mai/exfan.png",
-      "--base-color": "#6D4C41",
-      "--dark-color": "#4A342C",
-      "--light-color": "#bcaaa4"
-    },
-    {
-      "title": "Mai Air-to-Air Combos",
-      "description": "Air-to-air confirms and conversions.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/Y4uxFIPN6Zc?si=9sDJnPtN5zGDHceZ",
-      "image": "/images/mai/airtoair.png",
-      "--base-color": "#AD1457",
-      "--dark-color": "#7A0E3C",
-      "--light-color": "#f06292"
-    },
-    {
-      "title": "Fireball Conversions",
-      "description": "Comboing after fireballs.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/KhUNl7yTp84?si=rbIGSPLB2Smm1hmH",
-      "image": "/images/mai/conversions.png",
-      "--base-color": "#C62828",
-      "--dark-color": "#911D1D",
-      "--light-color": "#ef5350"
-    },
-    {
-      "title": "Stun Combos (No Firestocks)",
-      "description": "Max damage stun combos without firestocks.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/watch?v=p6sCzue8U-c&list=PLSGgQTqIFIj6HhUx7E0w5-chak8COcet6&index=8",
-      "image": "/images/mai/stuncombo.png",
-      "--base-color": "#EF6C00",
-      "--dark-color": "#B95200",
-      "--light-color": "#ffab40"
-    },
-    {
-      "title": "Stun Combos (With Firestocks)",
-      "description": "High damage stun combos using firestocks.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/SVP-nHrKix4?si=ko0HmxsQ4fB6EBBV",
-      "image": "/images/mai/stunfirecombo.png",
-      "--base-color": "#F9A825",
-      "--dark-color": "#C48A1B",
-      "--light-color": "#ffcc02"
-    },
-    {
-      "title": "Drive Impact Punishes",
-      "description": "How Mai deals with Drive Impact.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/kQiKv7rZ9H0?si=SVrE7KUHxxBQlz5s",
-      "image": "/images/mai/driceimpact.png",
-      "--base-color": "#6A1B9A",
-      "--dark-color": "#4D1370",
-      "--light-color": "#ba68c8"
-    },
-    {
-      "title": "Mai in Burnout",
-      "description": "Managing offense while in burnout.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/Q-79y_Y38dc?si=9BbjFlkHeDOIUy31",
-      "image": "/images/mai/burnout.png",
-      "--base-color": "#37474F",
-      "--dark-color": "#263238",
-      "--light-color": "#78909c"
-    },
-    {
-      "title": "Reset Options",
-      "description": "Reset setups for continued pressure.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/yCwC6j1I0zg?si=96ABSxTJZZizStWp&start=366",
-      "image": "/images/mai/reset.png",
-      "--base-color": "#3E2723",
-      "--dark-color": "#2B1A18",
-      "--light-color": "#8d6e63"
-    },
-    {
-      "title": "Safejumps",
-      "description": "Safejump setups to keep opponents honest.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/yCwC6j1I0zg?si=96ABSxTJZZizStWp&start=295",
-      "image": "/images/mai/safejump.png",
-      "--base-color": "#F06292",
-      "--dark-color": "#AD476B",
-      "--light-color": "#f8bbd9"
-    },
-    {
-      "title": "Advanced Tech",
-      "description": "Technical setups and hidden tricks.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/ogcc7QXOkMI?si=UhVvM27du6LuY3F3&start=295",
-      "image": "/images/mai/tech.png",
-      "--base-color": "#5D4037",
-      "--dark-color": "#422E28",
-      "--light-color": "#8d6e63"
-    },
-    {
-      "title": "Sideswitch Combos",
-      "description": "Switching sides mid-combo.",
-      "skill": "advanced",
-      "link": "https://www.youtube.com/embed/yCwC6j1I0zg?si=96ABSxTJZZizStWp&start=350",
-      "image": "/images/mai/sideswitch.png",
-      "--base-color": "#283593",
-      "--dark-color": "#1C2567",
-      "--light-color": "#7986cb"
-    },
-    {
-      "title": "Anti-Mai Strategies",
-      "description": "How to deal with Mai as an opponent.",
-      "skill": "intermediate",
-      "link": "https://www.youtube.com/embed/jaANNBXZVmA?si=YGQ6orkcjM3aWdw7&start=295",
-      "image": "/images/mai/antimai.png",
-      "--base-color": "#263238",
-      "--dark-color": "#171E22",
-      "--light-color": "#78909c"
-    }
-  ],
-  "streamers": [
-    {
-      "name": "Xiaohai",
-      "links": [
-        { "platform": "youtube", "url": "https://space.bilibili.com/104777016/upload/video" },
-        { "platform": "twitch", "url": "https://www.douyu.com/2125?dyshid=0-&dyshci=29" },
-        { "platform": "twitter", "url": "https://x.com/Xiaohai_" }
-      ],
-      "image": "/images/mai/xiaohai.png"
-    },
-    {
-      "name": "Moke",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@mokeasobi" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/lllmokelll" },
-        { "platform": "twitter", "url": "https://x.com/lllmokelll" }
-      ],
-      "image": "/images/mai/moke.png"
-    },
-    {
-      "name": "Orarinn",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/orarin1" },
-        { "platform": "twitter", "url": "https://x.com/orachaaaaaan" }
-      ],
-      "image": "/images/mai/orarinn.png"
-    },
-    {
-      "name": "Nephew",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/c/nephewdork" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/nephewdork" },
-        { "platform": "twitter", "url": "https://x.com/nephewdork" }
-      ],
-      "image": "/images/mai/nephew.png"
-    },
-    {
-      "name": "Yamaguchi",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/yama1128_fgc" },
-        { "platform": "twitter", "url": "https://x.com/yamae1128" }
-      ],
-      "image": "/images/mai/yamaguchi.png"
-    },
-    {
-      "name": "Momochi",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UCPB5UJ70KDnL_hy0TyT79NA" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/momochoco" },
-        { "platform": "twitter", "url": "https://x.com/momochi212" }
-      ],
-      "image": "/images/mai/momochi.png"
-    },
-    {
-      "name": "Leshar",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/leshar15" }
-      ],
-      "image": "/images/mai/leshar.png"
-    },
-    {
-      "name": "Kilzyou",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/kilzyouu" },
-        { "platform": "twitter", "url": "https://x.com/Kilzyou" }
-      ],
-      "image": "/images/mai/kilzyou.png"
-    },
-    {
-      "name": "Spaceboy",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/spaceboyfgc" },
-        { "platform": "twitter", "url": "https://x.com/Imyourspaceboy" }
-      ],
-      "image": "/images/mai/spaceboy.png"
-    },
-    {
-      "name": "Shine",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ShineNYC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/shinenyc" },
-        { "platform": "twitter", "url": "https://x.com/Shine_NYC" }
-      ],
-      "image": "/images/mai/shine.png"
-    },
-    {
-      "name": "Haitani",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@TV-fp4zl" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/haitani0904" },
-        { "platform": "twitter", "url": "https://x.com/hai090" }
-      ],
-      "image": "/images/mai/haitani.png"
-    }
-  ],
-  "labbers": [],
-  "tournaments": [
-    {
-      "name": "Combo Breaker",
-      "image": "/images/mai/combobreak.png",
-      "background": "/images/mai/combobreak.jpg",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
-    },
-    {
-      "name": "CEO",
-      "image": "/images/mai/ceo.png",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
-    }
-  ],
-  "sidebar": [
-    { "title": "Discord", "url": "https://discord.gg/gUPTGEJwtn" },
-    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Mai" },
-    { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1FbVBHVblPjgjdaCkYMJzwBzSKHN0rrOMIU3vxUWBq7Q/edit?gid=681564757#gid=681564757" },
-    { "title": "Replays", "url": "https://www.youtube.com/playlist?list=PLvZ5t8JLwU9IxvmyomQImOG_kYY7dsFQX" },
-    { "title": "Achievement", "url": "https://www.youtube.com/live/OnzHjbZxxA8?si=RV6xkU6lHrB-LI8M" }
-  ],
-  "section": [
-    { "title": "Discord", "url": "https://discord.gg/gUPTGEJwtn" },
-    { "title": "Frame-Data", "url": "https://fullmeter.com/fatonline/#/framedata/SF6/Mai" },
-    { "title": "Document", "url": "https://docs.google.com/spreadsheets/d/1FbVBHVblPjgjdaCkYMJzwBzSKHN0rrOMIU3vxUWBq7Q/edit?gid=681564757#gid=681564757" },
-    { "title": "music", "url": "Street Fighter 6 - Mai's ThemeOST  Enryuujin SF6 Arrange  Extended Remix.mp3" }]
-    , "navStyle": {
-  "base": {
-    "backgroundColor": "transparent",
-    "color": "black",
-    "firstColor": "black",
-    "centerColor": "#D4BB65",
-    "buttonBorder": "3px solid black",
-    "buttonColor": "black"
-  },
-  "scrolled": {
-    "backgroundColor": "rgba(0, 0, 0, 0.7)",
-    "color": "white",
-    "firstColor": "#D4BB65",
-    "centerColor": "white",
-    "buttonBorder": "3px solid white",
-    "buttonColor": "white"
-  }
-  }},
+},
  "marisa": {
   "name": "Marisa",
   "image": "/images/marisa//profilepic.png",
@@ -6990,98 +6313,99 @@
     }
   ],
   "streamers": [
-    {
-      "name": "Goldbanks",
-      "links": [
-        { "platform": "youtube", "url": "https://x.com/banks_gold" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/goldbanks" },
-        { "platform": "twitter", "url": "https://x.com/banks_gold" }
-      ],
-      "image": "/images/marisa//goldbanks.png"
-    },
-    {
-      "name": "Lazyboredom",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/lazyboredom" },
-        { "platform": "twitter", "url": "https://x.com/Lazyboredom" }
-      ],
-      "image": "/images/marisa//lazy.png"
-    },
-    {
-      "name": "Fem!Shep",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@femshepFGC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/femshepfgc" },
-        { "platform": "twitter", "url": "https://x.com/FemShepFGC" }
-      ],
-      "image": "/images/marisa//femshep.png"
-    },
-    {
-      "name": "Nutrient",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/nutrient16" },
-        { "platform": "twitter", "url": "https://x.com/Nutrient16" }
-      ],
-      "image": "/images/marisa//nutrient.png"
-    },
-    {
-      "name": "Dabekes",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/dabekes" },
-        { "platform": "twitter", "url": "https://x.com/dabekes" }
-      ],
-      "image": "/images/marisa//dabekes.png"
-    },
-    {
-      "name": "Shuto",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@shuto6713/videos" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/shuto_fgc" },
-        { "platform": "twitter", "url": "https://x.com/Shuto_fgc" }
-      ],
-      "image": "/images/marisa//shuto.png"
-    },
-    {
-      "name": "Itazan",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ItabashiZangief" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/itazan0429" },
-        { "platform": "twitter", "url": "https://x.com/itazan_kuma" }
-      ],
-      "image": "/images/marisa//itazani.png"
-    },
-    {
-      "name": "801 strider",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@801striderFGC" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/801Strider" },
-        { "platform": "twitter", "url": "https://x.com/801_Gustavo/status/1734309780712464551" }
-      ],
-      "image": "/images/marisa//801strider.png"
-    },
-    {
-      "name": "EssX",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/essx_the_sinner" }
-      ],
-      "image": "/images/marisa//essex.png"
-    },
-    {
-      "name": "Bigbird",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@Fgc_birds" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/fgc_birds" },
-        { "platform": "twitter", "url": "https://x.com/Bigbird_fgc" }
-      ],
-      "image": "/images/marisa//bigbird.png"
-    }
-  ],
+  {
+    "name": "Goldbanks",
+    "links": [
+      { "platform": "youtube", "url": "https://x.com/banks_gold" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/goldbanks", "streamer": "goldbanks" },
+      { "platform": "twitter", "url": "https://x.com/banks_gold" }
+    ],
+    "image": "/images/marisa//goldbanks.png"
+  },
+  {
+    "name": "Lazyboredom",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/lazyboredom", "streamer": "lazyboredom" },
+      { "platform": "twitter", "url": "https://x.com/Lazyboredom" }
+    ],
+    "image": "/images/marisa//lazy.png"
+  },
+  {
+    "name": "Fem!Shep",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@femshepFGC" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/femshepfgc", "streamer": "femshepfgc" },
+      { "platform": "twitter", "url": "https://x.com/FemShepFGC" }
+    ],
+    "image": "/images/marisa//femshep.png"
+  },
+  {
+    "name": "Nutrient",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/nutrient16", "streamer": "nutrient16" },
+      { "platform": "twitter", "url": "https://x.com/Nutrient16" }
+    ],
+    "image": "/images/marisa//nutrient.png"
+  },
+  {
+    "name": "Dabekes",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/dabekes", "streamer": "dabekes" },
+      { "platform": "twitter", "url": "https://x.com/dabekes" }
+    ],
+    "image": "/images/marisa//dabekes.png"
+  },
+  {
+    "name": "Shuto",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@shuto6713/videos" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/shuto_fgc", "streamer": "shuto_fgc" },
+      { "platform": "twitter", "url": "https://x.com/Shuto_fgc" }
+    ],
+    "image": "/images/marisa//shuto.png"
+  },
+  {
+    "name": "Itazan",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@ItabashiZangief" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/itazan0429", "streamer": "itazan0429" },
+      { "platform": "twitter", "url": "https://x.com/itazan_kuma" }
+    ],
+    "image": "/images/marisa//itazani.png"
+  },
+  {
+    "name": "801 strider",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@801striderFGC" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/801Strider", "streamer": "801Strider" },
+      { "platform": "twitter", "url": "https://x.com/801_Gustavo/status/1734309780712464551" }
+    ],
+    "image": "/images/marisa//801strider.png"
+  },
+  {
+    "name": "EssX",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/essx_the_sinner", "streamer": "essx_the_sinner" }
+    ],
+    "image": "/images/marisa//essex.png"
+  },
+  {
+    "name": "Bigbird",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@Fgc_birds" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/fgc_birds", "streamer": "fgc_birds" },
+      { "platform": "twitter", "url": "https://x.com/Bigbird_fgc" }
+    ],
+    "image": "/images/marisa//bigbird.png"
+  }
+]
+,
   "labbers": [],
   "tournaments": [
     {
       "name": "Red Bull Kumite",
       "image": "/images/marisa//rbk.png",
-      "link": "https://www.youtube.com/live/xYXlak-APuA?si=zf1W-IURrB_ci66H"
+      "link": "https://www.youtube.com/embed/xYXlak-APuA?si=-L_rHm0pt8QZ-vtZ"
     }
   ],
   "sidebar": [
@@ -7383,65 +6707,66 @@
     }
   ],
   "streamers": [
-    {
-      "name": "EndingWalker",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/enderwalkers" },
-        { "platform": "twitter", "url": "https://x.com/EndingWalker" }
-      ],
-      "image": "/images/ryu//endingwalker.png"
-    },
-    {
-      "name": "Yas",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@yas-jittyoku" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/yas_jittyoku" },
-        { "platform": "twitter", "url": "https://x.com/YAS_jittyoku" }
-      ],
-      "image": "/images/ryu//yas.png"
-    },
-    {
-      "name": "Blaz",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/DerekBlaz11" }
-      ],
-      "image": "/images/ryu//blaz.png"
-    },
-    {
-      "name": "Kusanagi",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/KusanagiSF6" },
-        { "platform": "twitter", "url": "https://x.com/MaivineKusanagi" }
-      ],
-      "image": "/images/ryu//kusanagi.png"
-    },
-    {
-      "name": "Paladin",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/paladin850" },
-        { "platform": "twitter", "url": "https://x.com/FGC850" }
-      ],
-      "image": "/images/ryu//paladin.png"
-    },
-    {
-      "name": "MDZ_Jimmy",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/MDZjimmY" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/MDZ_jimmY" },
-        { "platform": "twitter", "url": "https://x.com/MDZ_jimmY" }
-      ],
-      "image": "/images/ryu//jimmy.png"
-    },
-    {
-      "name": "Harouto",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/channel/UC8_Hz2pSWkpySfF4yY_55lg" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/haroutotv" },
-        { "platform": "twitter", "url": "https://x.com/HaroutFGC" }
-      ],
-      "image": "/images/ryu//horouto.png"
-    }
-  ],
+  {
+    "name": "EndingWalker",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/enderwalkers", "streamer": "enderwalkers" },
+      { "platform": "twitter", "url": "https://x.com/EndingWalker" }
+    ],
+    "image": "/images/ryu//endingwalker.png"
+  },
+  {
+    "name": "Yas",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@yas-jittyoku" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/yas_jittyoku", "streamer": "yas_jittyoku" },
+      { "platform": "twitter", "url": "https://x.com/YAS_jittyoku" }
+    ],
+    "image": "/images/ryu//yas.png"
+  },
+  {
+    "name": "Blaz",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/DerekBlaz11" }
+    ],
+    "image": "/images/ryu//blaz.png"
+  },
+  {
+    "name": "Kusanagi",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/KusanagiSF6", "streamer": "KusanagiSF6" },
+      { "platform": "twitter", "url": "https://x.com/MaivineKusanagi" }
+    ],
+    "image": "/images/ryu//kusanagi.png"
+  },
+  {
+    "name": "Paladin",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/paladin850", "streamer": "paladin850" },
+      { "platform": "twitter", "url": "https://x.com/FGC850" }
+    ],
+    "image": "/images/ryu//paladin.png"
+  },
+  {
+    "name": "MDZ_Jimmy",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/MDZjimmY" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/MDZ_jimmY", "streamer": "MDZ_jimmY" },
+      { "platform": "twitter", "url": "https://x.com/MDZ_jimmY" }
+    ],
+    "image": "/images/ryu//jimmy.png"
+  },
+  {
+    "name": "Harouto",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/channel/UC8_Hz2pSWkpySfF4yY_55lg" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/haroutotv", "streamer": "haroutotv" },
+      { "platform": "twitter", "url": "https://x.com/HaroutFGC" }
+    ],
+    "image": "/images/ryu//horouto.png"
+  }
+]
+,
   "labbers": [
     {
       "name": "NikoTaro",
@@ -7456,7 +6781,7 @@
     {
       "name": "UFA",
       "image": "/images/ryu//ufa.png",
-      "link": "https://www.youtube.com/live/CFWSn39RQys?si=SWyvg8fM7howhLrd"
+      "link": "https://www.youtube.com/embed/CFWSn39RQys?si=cXy5CD4opyxLk3oR"
     }
   ],
   "sidebar": [
@@ -7505,7 +6830,7 @@
     "type": "achievement",
     "title": "Oil King Quals For CPT",
     "image": "/images/terry/OILER.avif",
-    "link": "https://youtu.be/T_tyAGF8RFc?si=yDcScyQKPMeeiwKe",
+    "link": "https://www.youtube.com/embed/T_tyAGF8RFc?si=C_gNOY5X1TdGku6R",
     "className": "achievement"
   },
   {
@@ -7657,85 +6982,86 @@
       "--light-color": "#FF6A6A"
     }
   ],
-  "streamers": [
-    {
-      "name": "Kintyo-ru",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@kintyo_ru0211" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/kintyo_ru0211" },
-        { "platform": "twitter", "url": "https://x.com/kintyo_ru0211" }
-      ],
-      "image": "/images/terry//kintyo.png"
-    },
-    {
-      "name": "Riddles",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/riddlesmk" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/riddlesmk" },
-        { "platform": "twitter", "url": "https://x.com/RiddlesMK" }
-      ],
-      "image": "/images/terry//riddles.png"
-    },
-    {
-      "name": "Leshar",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/leshar15" }
-      ],
-      "image": "/images/terry//leshar.png"
-    },
-    {
-      "name": "Oil King",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/LeevyLin5566" },
-        { "platform": "twitter", "url": "https://x.com/LeevyLin" }
-      ],
-      "image": "/images/terry//oilking.png"
-    },
-    {
-      "name": "Booce",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@booce6969" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/BooceFGC" },
-        { "platform": "twitter", "url": "https://x.com/BooceFGC" }
-      ],
-      "image": "/images/terry//booce.png"
-    },
-    {
-      "name": "Punk",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@Punkdagod" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/punkdagod" },
-        { "platform": "twitter", "url": "https://x.com/PunkDaGod" }
-      ],
-      "image": "/images/terry//ppunk.png"
-    },
-    {
-      "name": "Spaceboy",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/spaceboyfgc" },
-        { "platform": "twitter", "url": "https://x.com/Imyourspaceboy" }
-      ],
-      "image": "/images/terry//spaceboy.png"
-    },
-    {
-      "name": "Chriscch",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ChrisCCH" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/chriscch_" },
-        { "platform": "twitter", "url": "https://x.com/ChrisCCH_" }
-      ],
-      "image": "/images/terry//chriscch.png"
-    },
-    {
-      "name": "JabhiM",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@jabhim1516" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/jabhim" },
-        { "platform": "twitter", "url": "https://x.com/JabhiMabuza" }
-      ],
-      "image": "/images/terry//jabhim.png"
-    }
-  ],
+ "streamers": [
+  {
+    "name": "Kintyo-ru",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@kintyo_ru0211" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/kintyo_ru0211", "streamer": "kintyo_ru0211" },
+      { "platform": "twitter", "url": "https://x.com/kintyo_ru0211" }
+    ],
+    "image": "/images/terry//kintyo.png"
+  },
+  {
+    "name": "Riddles",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/riddlesmk" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/riddlesmk", "streamer": "riddlesmk" },
+      { "platform": "twitter", "url": "https://x.com/RiddlesMK" }
+    ],
+    "image": "/images/terry//riddles.png"
+  },
+  {
+    "name": "Leshar",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/leshar15" }
+    ],
+    "image": "/images/terry//leshar.png"
+  },
+  {
+    "name": "Oil King",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/LeevyLin5566", "streamer": "LeevyLin5566" },
+      { "platform": "twitter", "url": "https://x.com/LeevyLin" }
+    ],
+    "image": "/images/terry//oilking.png"
+  },
+  {
+    "name": "Booce",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@booce6969" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/BooceFGC", "streamer": "BooceFGC" },
+      { "platform": "twitter", "url": "https://x.com/BooceFGC" }
+    ],
+    "image": "/images/terry//booce.png"
+  },
+  {
+    "name": "Punk",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@Punkdagod" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/punkdagod", "streamer": "punkdagod" },
+      { "platform": "twitter", "url": "https://x.com/PunkDaGod" }
+    ],
+    "image": "/images/terry//ppunk.png"
+  },
+  {
+    "name": "Spaceboy",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/spaceboyfgc", "streamer": "spaceboyfgc" },
+      { "platform": "twitter", "url": "https://x.com/Imyourspaceboy" }
+    ],
+    "image": "/images/terry//spaceboy.png"
+  },
+  {
+    "name": "Chriscch",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@ChrisCCH" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/chriscch_", "streamer": "chriscch_" },
+      { "platform": "twitter", "url": "https://x.com/ChrisCCH_" }
+    ],
+    "image": "/images/terry//chriscch.png"
+  },
+  {
+    "name": "JabhiM",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@jabhim1516" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/jabhim", "streamer": "jabhim" },
+      { "platform": "twitter", "url": "https://x.com/JabhiMabuza" }
+    ],
+    "image": "/images/terry//jabhim.png"
+  }
+]
+,
   "labbers": [
     {
       "name": "Suzaku",
@@ -7748,14 +7074,14 @@
   ],
   "tournaments": [
     {
-      "name": "Super",
+      "name": "CPT South Africa",
       "image": "/images/terry//super.png",
-      "link": "https://youtu.be/MCYiKvT_H3o?si=AvTuuqsoPvulmJjv"
+      "link": "https://www.youtube.com/embed/MCYiKvT_H3o?si=Lcrb5wZdIk-RGPsG"
     },
     {
       "name": "CEO",
       "image": "/images/terry//ceo.png",
-      "link": "https://www.youtube.com/live/L46_1TRDdeQ?si=Nf5zLc1WwDHPS1do"
+      "link": "https://www.youtube.com/embed/L46_1TRDdeQ?si=SsWrz8U9QNkawHVP"
     }
   ],
   "sidebar": [
@@ -7936,110 +7262,111 @@
     }
   ],
   "streamers": [
-    {
-      "name": "kobayan",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/kobayan0222" },
-        { "platform": "twitter", "url": "https://x.com/kobayan_new" }
-      ],
-      "image": "/images/zangief//kobayan.png"
-    },
-    {
-      "name": "Itazan",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@ItabashiZangief" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/itazan0429" },
-        { "platform": "twitter", "url": "https://x.com/itazan_kuma" }
-      ],
-      "image": "/images/zangief//itazani.png"
-    },
-    {
-      "name": "bolado",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@zangief_bolado7706" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/zangief_bolado" },
-        { "platform": "twitter", "url": "https://x.com/BoladoZangief" }
-      ],
-      "image": "/images/zangief//bolado.png"
-    },
-    {
-      "name": "junior",
-      "links": [
-        { "platform": "twitch", "url": "https://x.com/juniorchaaaan" },
-        { "platform": "twitter", "url": "https://x.com/juniorchaaaan" }
-      ],
-      "image": "/images/zangief//junior.png"
-    },
-    {
-      "name": "K4ll3pro",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/k4ll3pro" },
-        { "platform": "twitter", "url": "https://x.com/k4ll3pro" }
-      ],
-      "image": "/images/zangief//k4lle.png"
-    },
-    {
-      "name": "Snake Eyez",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/c/SnakeEyezSF/community" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/Snake_Eyez_" },
-        { "platform": "twitter", "url": "https://x.com/Snake_Eyez_" }
-      ],
-      "image": "/images/zangief//snake.png"
-    },
-    {
-      "name": "Veggey",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@veggeysf" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/veggey" },
-        { "platform": "twitter", "url": "https://x.com/veggeySF" }
-      ],
-      "image": "/images/zangief//veggey.png"
-    },
-    {
-      "name": "SiberianLab",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@SiberianLab" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/siberianlab" },
-        { "platform": "twitter", "url": "https://x.com/keruppu" }
-      ],
-      "image": "/images/zangief//siberianlab.png"
-    },
-    {
-      "name": "teenytinytony",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/teenytinytony" },
-        { "platform": "twitter", "url": "https://x.com/TeenyTinyTony_" }
-      ],
-      "image": "/images/zangief//tony.png"
-    },
-    {
-      "name": "Quiggy",
-      "links": [
-        { "platform": "twitch", "url": "https://www.twitch.tv/quiggy_" },
-        { "platform": "twitter", "url": "https://x.com/Quiggybruhhhh" }
-      ],
-      "image": "/images/zangief//quiggy.png"
-    }
-  ],
-  "labbers": [
-    {
-      "name": "Brutus",
-      "links": [
-        { "platform": "twitter", "url": "https://x.com/Le_Brutus" }
-      ],
-      "image": "/images/zangief//brutus.png"
-    },
-    {
-      "name": "Mando",
-      "links": [
-        { "platform": "youtube", "url": "https://www.youtube.com/@NYMando/videos" },
-        { "platform": "twitch", "url": "https://www.twitch.tv/nymando" },
-        { "platform": "twitter", "url": "https://x.com/ny_mando" }
-      ],
-      "image": "/images/zangief//mando.png"
-    }
-  ],
+  {
+    "name": "kobayan",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/kobayan0222", "streamer": "kobayan0222" },
+      { "platform": "twitter", "url": "https://x.com/kobayan_new" }
+    ],
+    "image": "/images/zangief//kobayan.png"
+  },
+  {
+    "name": "Itazan",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@ItabashiZangief" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/itazan0429", "streamer": "itazan0429" },
+      { "platform": "twitter", "url": "https://x.com/itazan_kuma" }
+    ],
+    "image": "/images/zangief//itazani.png"
+  },
+  {
+    "name": "bolado",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@zangief_bolado7706" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/zangief_bolado", "streamer": "zangief_bolado" },
+      { "platform": "twitter", "url": "https://x.com/BoladoZangief" }
+    ],
+    "image": "/images/zangief//bolado.png"
+  },
+  {
+    "name": "junior",
+    "links": [
+      { "platform": "twitch", "url": "https://x.com/juniorchaaaan" },
+      { "platform": "twitter", "url": "https://x.com/juniorchaaaan" }
+    ],
+    "image": "/images/zangief//junior.png"
+  },
+  {
+    "name": "K4ll3pro",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/k4ll3pro", "streamer": "k4ll3pro" },
+      { "platform": "twitter", "url": "https://x.com/k4ll3pro" }
+    ],
+    "image": "/images/zangief//k4lle.png"
+  },
+  {
+    "name": "Snake Eyez",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/c/SnakeEyezSF/community" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/Snake_Eyez_", "streamer": "Snake_Eyez_" },
+      { "platform": "twitter", "url": "https://x.com/Snake_Eyez_" }
+    ],
+    "image": "/images/zangief//snake.png"
+  },
+  {
+    "name": "Veggey",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@veggeysf" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/veggey", "streamer": "veggey" },
+      { "platform": "twitter", "url": "https://x.com/veggeySF" }
+    ],
+    "image": "/images/zangief//veggey.png"
+  },
+  {
+    "name": "SiberianLab",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@SiberianLab" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/siberianlab", "streamer": "siberianlab" },
+      { "platform": "twitter", "url": "https://x.com/keruppu" }
+    ],
+    "image": "/images/zangief//siberianlab.png"
+  },
+  {
+    "name": "teenytinytony",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/teenytinytony", "streamer": "teenytinytony" },
+      { "platform": "twitter", "url": "https://x.com/TeenyTinyTony_" }
+    ],
+    "image": "/images/zangief//tony.png"
+  },
+  {
+    "name": "Quiggy",
+    "links": [
+      { "platform": "twitch", "url": "https://www.twitch.tv/quiggy_", "streamer": "quiggy_" },
+      { "platform": "twitter", "url": "https://x.com/Quiggybruhhhh" }
+    ],
+    "image": "/images/zangief//quiggy.png"
+  }
+],
+"labbers": [
+  {
+    "name": "Brutus",
+    "links": [
+      { "platform": "twitter", "url": "https://x.com/Le_Brutus" }
+    ],
+    "image": "/images/zangief//brutus.png"
+  },
+  {
+    "name": "Mando",
+    "links": [
+      { "platform": "youtube", "url": "https://www.youtube.com/@NYMando/videos" },
+      { "platform": "twitch", "url": "https://www.twitch.tv/nymando", "streamer": "nymando" },
+      { "platform": "twitter", "url": "https://x.com/ny_mando" }
+    ],
+    "image": "/images/zangief//mando.png"
+  }
+]
+,
   "tournaments": [
     {
       "name": "Topanga",
@@ -8049,12 +7376,12 @@
     {
       "name": "Cream City",
       "image": "/images/zangief//creamcity.png",
-      "link": "https://www.youtube.com/live/qdVIBK2SNE4?si=tozdo0pNxsIGQbW3"
+      "link": "https://www.youtube.com/embed/qdVIBK2SNE4?si=z5KULGLxAlGmhdoE"
     },
     {
       "name": "East Coast",
       "image": "/images/zangief//eastcoast.png",
-      "link": "https://www.youtube.com/live/Ih7IKDK2qUE?si=j-mYLsTYQMKgtxzL"
+      "link": "https://www.youtube.com/embed/Ih7IKDK2qUE?si=SyEOe1xreGCx8u-4"
     }
   ],
   "sidebar": [

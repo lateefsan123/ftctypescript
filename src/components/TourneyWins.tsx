@@ -12,6 +12,10 @@ const TourneyWins: React.FC<TourneyWinsProps> = ({ data = [], onVideoSelect }) =
   if (!data || data.length === 0) return null;
 
   return (
+    <>
+    <div className="tourneytitle">
+          <h2 id="ttitle">Majors Won</h2>
+        </div>
     <div className="tourneywins">
       {data.map((tourney, i) => (
         <div
@@ -27,6 +31,7 @@ const TourneyWins: React.FC<TourneyWinsProps> = ({ data = [], onVideoSelect }) =
         </div>
       ))}
     </div>
+    </>
   );
 };
 

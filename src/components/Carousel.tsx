@@ -1,7 +1,7 @@
 // src/components/Carousel.tsx
 
 import React, { useEffect, useState, useRef } from 'react';
-import Slide from '/Slide';
+import Slide from './Slide';
 import Dots from './Dots';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import type { CarouselItem, NavStyle } from '../types';

@@ -55,9 +55,7 @@ const CharacterPage: React.FC = () => {
           navStyle={character.navStyle}
         />
 
-        <div className="tourneytitle">
-          <h2 id="ttitle">Majors Won</h2>
-        </div>
+    
         {character.tournaments?.length > 0 && (
           <TourneyWins data={character.tournaments} onVideoSelect={setVideoUrl} />
         )}
