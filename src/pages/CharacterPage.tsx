@@ -16,6 +16,7 @@ import VideoPlayer from '../components/VideoPlayer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import type { CharacterData, CharactersMap } from '../types';
+import Coaches from '../components/Coaches';
 
 const data: CharactersMap = rawData;
 
@@ -27,6 +28,7 @@ const CharacterPage: React.FC = () => {
   const { char: characterSlug } = useParams<Params>();
   const character: CharacterData | undefined = data[characterSlug];
   const [videoUrl, setVideoUrl] = useState<string | null>(null);
+  console.log('Character Data:', character);
 
   if (!character) {
     return <div style={{ padding: '2rem' }}>Character not found.</div>;
@@ -69,6 +71,9 @@ const CharacterPage: React.FC = () => {
           onVideoSelect={setVideoUrl}
         />
 
+        {character.coaches?.length > 0 && (
+        <Coaches data={character.coaches} />)}
+        
         <div className="streamertitle">
           <h2 id="stitle">
             Streamers <i className="fa-solid fa-signal-stream" />

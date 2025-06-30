@@ -72,6 +72,13 @@ export type Labber = {
   links: SocialLink[];
 };
 
+export type Coaches = {
+  name: string;
+  image: string;
+  links: SocialLink[];
+};
+
+
 // Tournament appearance
 export type Tournament = {
   name: string;

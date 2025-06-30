@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lateefsan123.github.io/ftctypescript/",
+  "homepage": "https://lateefsan123.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-pro": "^6.7.2",
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/pro-duotone-svg-icons": "^6.7.2",

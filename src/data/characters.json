@@ -192,7 +192,16 @@
             "buttonBorder": "3px solid white",
             "buttonColor": "white"
         }
-        },
+        }, "coaches": [
+   
+    {
+      "name": "JB",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@jb" }
+      ],
+      "image": "/images/rashid/jb.png"
+    }
+  ],
 
   "streamers": [
     {
@@ -513,6 +522,21 @@
       "--dark-color": "#445055",
       "--light-color": "#859299"
     }
+  ], "coaches": [
+    {
+      "name": "Diaphone",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@diaphone" }
+      ],
+      "image": "/images/kimberly/diaphone.png"
+    },
+    {
+      "name": "Kharsonist",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@kharsonist" }
+      ],
+      "image": "/images/aki/kharsonist.png"
+    }
   ],
   "streamers": [
     {
@@ -761,14 +785,28 @@
     "--light-color": "#f4e6f8"
   }
 ]
-,
+,  "coaches": [
+   
+    {
+      "name": "Nephew",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/guides/view/nephews-ultimate-juri-guide-CzwdtvFcHze" }
+      ],
+      "image": "/images/juri/nephew.png"
+    }, 
+    {
+      "name": "Jak",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@jak-9aac75c6/sessions" }
+      ],
+      "image": "/images/juri/jak.png"
+    }
+  ],
    "streamers": [
   {
     "name": "Nephew",
     "links": [
-      { "platform": "twitch", "url": "https://www.twitch.tv/nephewdork", "streamer": "nephewdork" },
-      { "platform": "youtube", "url": "https://www.youtube.com/c/nephewdork" },
-      { "platform": "twitter", "url": "https://x.com/nephewdork" }
+      { "platform": "metafy", "url": "https://www.twitch.tv/nephewdork", "streamer": "nephewdork" }
     ],
     "image": "/images/juri/nephew.png"
   },
@@ -1574,7 +1612,22 @@
     "--light-color": "#5a729b"
   }
 ]
-,
+,  "coaches": [
+    {
+      "name": "Grantodakai",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@grantodakai" }
+      ],
+      "image": "/images/jp//grantodakai.png"
+    }, 
+    {
+      "name": "801 Strider",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@801-strider" }
+      ],
+      "image": "/images/marisa//801strider.png"
+    }
+  ],
  "streamers": [
   {
     "name": "Xiaohai",
@@ -1862,6 +1915,14 @@
     "--dark-color": "#000000",
     "--light-color": "#4d4d4d"
   }
+], "coaches": [
+  {
+    "name": "Slice",
+    "links": [
+      { "platform": "metafy", "url": "https://metafy.gg/@slice" }
+    ],
+    "image": "/images/blanka//slice.png"
+  }
 ]
 ,
    "streamers": [
@@ -2130,7 +2191,40 @@
     "--light-color": "#4db6ac"
   }
 ]
-,
+,"coaches": [
+
+   {
+      "name": "Punk",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@punkdagod" }
+      ],
+      "image": "/images/cammy//ppunk.png"
+    },{
+      "name": "Shakz",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@shakz" }
+      ],
+      "image": "/images/cammy//shakz.png"
+    },  {
+      "name": "SonicSol",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@sonic_sol" }
+      ],
+      "image": "/images/cammy//sonicsol.png"
+    },{
+      "name": "Hali",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@halifgc" }
+      ],
+      "image": "/images/cammy//hali.png"
+    },  {
+      "name": "Akairean",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@akaraien" }
+      ],
+      "image": "/images/cammy/akairean.png"
+    }
+  ],
 "streamers": [
   {
     "name": "Akira",
@@ -2785,7 +2879,22 @@
     "--light-color": "#ffec99"
   }
 ]
-,
+,"coaches": [
+
+   {
+      "name": "Xian",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@xian" }
+      ],
+      "image": "/images/deejay/xian.png"
+    },{
+      "name": "Kdl",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@kdl" }
+      ],
+      "image": "/images/deejay//kdl.png"
+    }
+  ],
     "streamers": [
   {
     "name": "Fuudo",
@@ -3120,7 +3229,15 @@
     "--light-color": "#b71c1c"
   }
 ]
-,
+, "coaches": [
+    {
+      "name": "Zaferino",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@zaferino1" }
+      ],
+      "image": "/images/jamie/zaferino.png"
+    }
+  ],
     "streamers": [
   {
     "name": "Mr Crimson",
@@ -3366,6 +3483,14 @@
       "--base-color": "#6F00FF",
       "--dark-color": "#5600cc",
       "--light-color": "#9966ff"
+    }
+  ], "coaches": [
+    {
+      "name": "SilverRupee",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@silverrupee" }
+      ],
+      "image": "/images/ed//silverrupee.png"
     }
   ],
   "streamers": [
@@ -3944,7 +4069,27 @@
       "--dark-color": "#3D3D3D",
       "--light-color": "#B8B8B8"
     }
-  ],
+  ], "coaches": [
+  {
+    "name": "Chris F",
+    "links": [
+      { "platform": "metafy", "url": "https://metafy.gg/@chris-f" }
+    ],
+    "image": "/images/guile//chrisf.png"
+  },{
+    "name": "Nuckledu",
+    "links": [
+      { "platform": "metafy", "url": "https://metafy.gg/@nuckledu" }
+    ],
+    "image": "/images/guile//nuckledu.png"
+  },{
+    "name": "Lexx",
+    "links": [
+      { "platform": "metafy", "url": "https://metafy.gg/@lexx" }
+    ],
+    "image": "/images/guile//lexx.png"
+  }
+],
   "streamers": [
   {
     "name": "Caba",
@@ -4481,7 +4626,24 @@
       "--light-color": "#666666",
       "isExternal": true
     }
-  ], "streamers": [
+  ], "coaches": [
+    {
+      "name": "Zaferino",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@zaferino1" }
+      ],
+      "image": "/images/jamie/zaferino.png"
+    },
+   
+    {
+      "name": "JB",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@jb" }
+      ],
+      "image": "/images/rashid/jb.png"
+    }
+  ],
+   "streamers": [
   {
     "name": "Naruo",
     "links": [
@@ -4827,6 +4989,27 @@
       "--dark-color": "#007369",
       "--light-color": "#4db6ac"
     }
+  ],"coaches": [
+
+   {
+      "name": "Coungstar",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@cuongster" }
+      ],
+      "image": "/images/jp/coungster.png"
+    },{
+      "name": "Grantodakai",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@grantodakai" }
+      ],
+      "image": "/images/jp//grantodakai.png"
+    },{
+      "name": "KidFrost",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@kidfrost" }
+      ],
+      "image": "/images/jp/kidfrost.png"
+    }
   ],
   "streamers": [
   {
@@ -5113,6 +5296,28 @@
       "--base-color": "#57120f",
       "--dark-color": "#420e0b",
       "--light-color": "#8a3d38"
+    }
+  ], "coaches": [
+    {
+      "name": "Chris T",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@christatarian" }
+      ],
+      "image": "/images/ken//christ.png"
+    },
+    {
+      "name": "Booce",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@booce-fb4c6045" }
+      ],
+      "image": "/images/ken//booce.png"
+    },
+    {
+      "name": "cnq12",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@cnq12" }
+      ],
+      "image": "/images/ken//cnq12.png"
     }
   ],
   "streamers": [
@@ -5499,6 +5704,33 @@
       "--dark-color": "#a896bc",
       "--light-color": "#e6ccf2"
     }
+  ],  "coaches": [
+   
+    {
+      "name": "Psycho",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@_psycho_" }
+      ],
+      "image": "/images/kimberly/psycho.png"
+    },  {
+      "name": "Shine",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@shinenyc" }
+      ],
+      "image": "/images/kimberly//shine.png"
+    },  {
+      "name": "Diaphone",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@diaphone" }
+      ],
+      "image": "/images/kimberly/diaphone.png"
+    },  {
+      "name": "Cuhzlightyear",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@cuhzlightyear" }
+      ],
+      "image": "/images/kimberly/cuhz.png"
+    }
   ],
   "streamers": [
   {
@@ -5861,6 +6093,15 @@
       "--dark-color": "#857057",
       "--light-color": "#c4ab8f"
     }
+  ], "coaches": [
+
+   {
+      "name": "Xisin",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@xisin" }
+      ],
+      "image": "/images/lily/xisin.png"
+    }
   ],
   "streamers": [
   {
@@ -6150,6 +6391,29 @@
       "--base-color": "#40628F",
       "--dark-color": "#2f4a6c",
       "--light-color": "#6b8bb5"
+    }
+  ],"coaches": [
+   
+    {
+      "name": "Kami",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@whatiskami" }
+      ],
+      "image": "/images/luke/kami.png"
+    }, 
+    {
+      "name": "Espadah",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@espadah" }
+      ],
+      "image": "/images/luke/espadah.png"
+    },
+    {
+      "name": "Noah",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@noahtheprodigy" }
+      ],
+      "image": "/images/luke/noah.png"
     }
   ],
  "streamers": [
@@ -6529,6 +6793,22 @@
       "--dark-color": "#171E22",
       "--light-color": "#78909c"
     }
+  ], "coaches": [
+   
+    {
+      "name": "Nephew",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/guides/view/nephews-ultimate-juri-guide-CzwdtvFcHze" }
+      ],
+      "image": "/images/juri/nephew.png"
+    }, 
+    {
+      "name": "Jak",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@jak-9aac75c6/sessions" }
+      ],
+      "image": "/images/juri/jak.png"
+    }
   ],
   "streamers": [
   {
@@ -6836,6 +7116,14 @@
       "--dark-color": "#003d7a",
       "--light-color": "#4d8bc7"
     }
+  ], "coaches": [
+    {
+      "name": "Idom",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@idom" }
+      ],
+      "image": "/images/manon/idom.png"
+    }
   ],
  "streamers": [
   {
@@ -7096,6 +7384,21 @@
       "--base-color": "#3A3A3C",
       "--dark-color": "#2e2e30",
       "--light-color": "#666669"
+    }
+  ], "coaches": [
+    {
+      "name": "Femshep",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@femshepfgc" }
+      ],
+      "image": "/images/marisa//femshep.png"
+    }, 
+    {
+      "name": "801 Strider",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@801-strider" }
+      ],
+      "image": "/images/marisa//801strider.png"
     }
   ],
   "streamers": [
@@ -7491,6 +7794,21 @@
       "--dark-color": "#219990",
       "--light-color": "#5fd4ca"
     }
+  ], "coaches": [
+    {
+      "name": "Machoor",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@machoortv" }
+      ],
+      "image": "/images/ryu//machoor.png"
+    }, 
+    {
+      "name": "Teiga",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@teiga" }
+      ],
+      "image": "/images/ryu//teiga.png"
+    }
   ],
   "streamers": [
   {
@@ -7603,8 +7921,8 @@
 
 }, "terry": {
   "name": "Terry",
-  "image": "/images/terry//newprofilepic.png",
-  "background": "/images/terry/background.jpg",
+  "image": "/images/terry//profilepic1.png",
+  "background": "/images/terry/test.jpeg",
   "carousel": [
   {
     "type": "text",
@@ -7766,6 +8084,15 @@
       "--base-color": "#A02020",
       "--dark-color": "#701515",
       "--light-color": "#FF6A6A"
+    }
+  ],  "coaches": [
+    
+    {
+      "name": "Booce",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@booce-fb4c6045" }
+      ],
+      "image": "/images/ken//booce.png"
     }
   ],
  "streamers": [
@@ -8045,6 +8372,15 @@
       "--base-color": "#4E4A2A",
       "--dark-color": "#36341c",
       "--light-color": "#7a7555"
+    }
+  ], "coaches": [
+    {
+      "name": "TheSticky",
+      "links": [
+        { "platform": "metafy", "url": "https://metafy.gg/@thesticky" }
+
+      ],
+      "image": "/images/zangief//sticky.png"
     }
   ],
   "streamers": [

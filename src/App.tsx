@@ -6,8 +6,10 @@ import CharacterSelect from './components/CharacterSelect';
 import CharacterPage from './pages/CharacterPage';
 
 const App: React.FC = () => {
+  const basename = import.meta.env.MODE === 'production' ? '/ftctypescript' : '/';
+
   return (
-    <Router>
+    <Router basename={basename}>
       <Routes>
         <Route path="/" element={<CharacterSelect />} />
         <Route path="/:char" element={<CharacterPage />} />
